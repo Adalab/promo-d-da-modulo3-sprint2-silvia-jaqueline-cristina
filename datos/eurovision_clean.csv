@@ -1,0 +1,1326 @@
+,host_city,year,host_country,section,artist,song,artist_country,running_order,total_points,rank,winner,total_points_per_year,percentage_points,losers
+0,Turin,2022,Italy,grand-final,Sam Ryder,SPACE MAN,United Kingdom,22,466,2,False,4640,10.04,True
+1,Turin,2022,Italy,grand-final,Chanel,SloMo,Spain,10,459,3,False,4640,9.89,True
+2,Turin,2022,Italy,grand-final,Mahmood & BLANCO,Brividi,Italy,9,268,6,False,4640,5.78,True
+3,Turin,2022,Italy,grand-final,Alvan & Ahez,Fulenn,France,6,17,24,False,4640,0.37,True
+4,Turin,2022,Italy,grand-final,Malik Harris,Rockstars,Germany,13,6,25,False,4640,0.13,True
+5,Turin,2022,Italy,grand-final,Kalush Orchestra,Stefania,Ukraine,12,631,1,True,4640,13.6,True
+6,Turin,2022,Italy,grand-final,S10,De Diepte,Netherlands,11,171,11,False,4640,3.69,True
+7,Turin,2022,Italy,grand-final,Ochman,River,Poland,23,151,12,False,4640,3.25,True
+8,Turin,2022,Italy,grand-final,Stefan,Hope,Estonia,25,141,13,False,4640,3.04,True
+9,Turin,2022,Italy,grand-final,Monika Liu,Sentimentai,Lithuania,14,128,14,False,4640,2.76,True
+10,Turin,2022,Italy,grand-final,Sheldon Riley,Not The Same,Australia,21,125,15,False,4640,2.69,True
+11,Turin,2022,Italy,grand-final,Nadir Rustamli,Fade To Black,Azerbaijan,15,106,16,False,4640,2.28,True
+12,Turin,2022,Italy,grand-final,Marius Bear,Boys Do Cry,Switzerland,5,78,17,False,4640,1.68,True
+13,Turin,2022,Italy,grand-final,WRS,Llámame,Romania,2,65,18,False,4640,1.4,True
+14,Turin,2022,Italy,grand-final,Jérémie Makiese,Miss You,Belgium,16,64,19,False,4640,1.38,True
+15,Turin,2022,Italy,grand-final,Cornelia Jakobs,Hold Me Closer,Sweden,20,438,4,False,4640,9.44,True
+16,Turin,2022,Italy,grand-final,Konstrakta,In Corpore Sano,Serbia,24,312,5,False,4640,6.72,True
+17,Turin,2022,Italy,grand-final,Zdob şi Zdub & Advahov Brothers,Trenulețul,Moldova,19,253,7,False,4640,5.45,True
+18,Turin,2022,Italy,grand-final,Amanda Georgiadi Tenfjord,Die Together,Greece,17,215,8,False,4640,4.63,True
+19,Turin,2022,Italy,grand-final,MARO,"Saudade, Saudade",Portugal,3,207,9,False,4640,4.46,True
+20,Turin,2022,Italy,grand-final,Subwoolfer,Give That Wolf A Banana,Norway,7,182,10,False,4640,3.92,True
+21,Turin,2022,Italy,grand-final,Rosa Linn,Snap,Armenia,8,61,20,False,4640,1.31,True
+22,Turin,2022,Italy,grand-final,The Rasmus,Jezebel,Finland,4,38,21,False,4640,0.82,True
+23,Turin,2022,Italy,grand-final,We Are Domi,Lights Off,Czech Republic,1,38,22,False,4640,0.82,True
+24,Turin,2022,Italy,grand-final,Systur,Með Hækkandi Sól,Iceland,18,20,23,False,4640,0.43,True
+25,Rotterdam,2021,Netherlands,grand-final,Måneskin,Zitti E Buoni,Italy,24,524,1,True,4524,11.58,True
+26,Rotterdam,2021,Netherlands,grand-final,Barbara Pravi,Voilà,France,20,499,2,False,4524,11.03,True
+27,Rotterdam,2021,Netherlands,grand-final,Go_A,Shum,Ukraine,19,364,5,False,4524,8.05,True
+28,Rotterdam,2021,Netherlands,grand-final,Destiny,Je Me Casse,Malta,6,255,7,False,4524,5.64,True
+29,Rotterdam,2021,Netherlands,grand-final,The Roop,Discoteque,Lithuania,18,220,8,False,4524,4.86,True
+30,Rotterdam,2021,Netherlands,grand-final,Manizha,Russian Woman,Russia,5,204,9,False,4524,4.51,True
+31,Rotterdam,2021,Netherlands,grand-final,VICTORIA,Growing Up Is Getting Old,Bulgaria,17,170,11,False,4524,3.76,True
+32,Rotterdam,2021,Netherlands,grand-final,Tusse,Voices,Sweden,25,109,14,False,4524,2.41,True
+33,Rotterdam,2021,Netherlands,grand-final,Hurricane,Loco Loco,Serbia,8,102,15,False,4524,2.25,True
+34,Rotterdam,2021,Netherlands,grand-final,Elena Tsagrinou,El Diablo,Cyprus,1,94,16,False,4524,2.08,True
+35,Rotterdam,2021,Netherlands,grand-final,Eden Alene,Set Me Free,Israel,3,93,17,False,4524,2.06,True
+36,Rotterdam,2021,Netherlands,grand-final,TIX,Fallen Angel,Norway,22,75,18,False,4524,1.66,True
+37,Rotterdam,2021,Netherlands,grand-final,Hooverphonic,The Wrong Place,Belgium,4,74,19,False,4524,1.64,True
+38,Rotterdam,2021,Netherlands,grand-final,Efendi,Mata Hari,Azerbaijan,21,65,20,False,4524,1.44,True
+39,Rotterdam,2021,Netherlands,grand-final,Jeangu Macrooy,Birth Of A New Age,Netherlands,23,11,23,False,4524,0.24,True
+40,Rotterdam,2021,Netherlands,grand-final,Daði og Gagnamagnið,10 Years,Iceland,12,378,4,False,4524,8.36,True
+41,Rotterdam,2021,Netherlands,grand-final,Blind Channel,Dark Side,Finland,16,301,6,False,4524,6.65,True
+42,Rotterdam,2021,Netherlands,grand-final,Stefania,Last Dance,Greece,10,170,10,False,4524,3.76,True
+43,Rotterdam,2021,Netherlands,grand-final,The Black Mamba,Love Is On My Side,Portugal,7,153,12,False,4524,3.38,True
+44,Rotterdam,2021,Netherlands,grand-final,Natalia Gordienko,SUGAR,Moldova,14,115,13,False,4524,2.54,True
+45,Rotterdam,2021,Netherlands,grand-final,Senhit,Adrenalina,San Marino,26,50,22,False,4524,1.11,True
+46,Rotterdam,2021,Netherlands,grand-final,Gjon's Tears,Tout l'Univers,Switzerland,11,432,3,False,4524,9.55,True
+47,Rotterdam,2021,Netherlands,grand-final,Anxhela Peristeri,Karma,Albania,2,57,21,False,4524,1.26,True
+48,Rotterdam,2021,Netherlands,grand-final,Blas Cantó,Voy A Quedarme,Spain,13,6,24,False,4524,0.13,True
+49,Rotterdam,2021,Netherlands,grand-final,Jendrik,I Don't Feel Hate,Germany,15,3,25,False,4524,0.07,True
+50,Rotterdam,2021,Netherlands,grand-final,James Newman,Embers,United Kingdom,9,0,26,False,4524,0.0,True
+51,Tel Aviv,2019,Israel,grand-final,Mahmood,Soldi,Italy,22,472,2,False,4756,9.92,True
+52,Tel Aviv,2019,Israel,grand-final,Miki,La Venda,Spain,26,54,22,False,4756,1.14,True
+53,Tel Aviv,2019,Israel,grand-final,Kobi Marimi,Home,Israel,14,35,23,False,4756,0.74,True
+54,Tel Aviv,2019,Israel,grand-final,Michael Rice,Bigger Than Us,United Kingdom,16,11,26,False,4756,0.23,True
+55,Tel Aviv,2019,Israel,grand-final,Kate Miller-Heidke,Zero Gravity,Australia,25,284,9,False,4756,5.97,True
+56,Tel Aviv,2019,Israel,grand-final,Luca Hänni,She Got Me,Switzerland,24,364,4,False,4756,7.65,True
+57,Tel Aviv,2019,Israel,grand-final,John Lundvik,Too Late For Love,Sweden,9,334,5,False,4756,7.02,True
+58,Tel Aviv,2019,Israel,grand-final,KEiiNO,Spirit in the Sky,Norway,15,331,6,False,4756,6.96,True
+59,Tel Aviv,2019,Israel,grand-final,Tamara Todevska,Proud,North Macedonia,8,305,7,False,4756,6.41,True
+60,Tel Aviv,2019,Israel,grand-final,Chingiz,Truth,Azerbaijan,20,302,8,False,4756,6.35,True
+61,Tel Aviv,2019,Israel,grand-final,Hatari,Hatrið mun sigra,Iceland,17,232,10,False,4756,4.88,True
+62,Tel Aviv,2019,Israel,grand-final,Tamta,Replay,Cyprus,11,109,13,False,4756,2.29,True
+63,Tel Aviv,2019,Israel,grand-final,Michela,Chameleon,Malta,1,107,14,False,4756,2.25,True
+64,Tel Aviv,2019,Israel,grand-final,Zala Kralj & Gašper Šantl,Sebi,Slovenia,10,105,15,False,4756,2.21,True
+65,Tel Aviv,2019,Israel,grand-final,Bilal Hassani,Roi,France,21,105,16,False,4756,2.21,True
+66,Tel Aviv,2019,Israel,grand-final,Lake Malawi,Friend of a Friend,Czech Republic,3,157,11,False,4756,3.3,True
+67,Tel Aviv,2019,Israel,grand-final,Leonora,Love Is Forever,Denmark,6,120,12,False,4756,2.52,True
+68,Tel Aviv,2019,Israel,grand-final,Duncan Laurence,Arcade,Netherlands,12,498,1,True,4756,10.47,True
+69,Tel Aviv,2019,Israel,grand-final,Sergey Lazarev,Scream,Russia,5,370,3,False,4756,7.78,True
+70,Tel Aviv,2019,Israel,grand-final,Jonida Maliqi,Ktheju tokës,Albania,2,90,17,False,4756,1.89,True
+71,Tel Aviv,2019,Israel,grand-final,Nevena Božović,Kruna,Serbia,23,89,18,False,4756,1.87,True
+72,Tel Aviv,2019,Israel,grand-final,Serhat,Say Na Na Na,San Marino,7,77,19,False,4756,1.62,True
+73,Tel Aviv,2019,Israel,grand-final,Victor Crone,Storm,Estonia,18,76,20,False,4756,1.6,True
+74,Tel Aviv,2019,Israel,grand-final,Katerine Duska,Better Love,Greece,13,74,21,False,4756,1.56,True
+75,Tel Aviv,2019,Israel,grand-final,ZENA,Like It,Belarus,19,31,24,False,4756,0.65,True
+76,Tel Aviv,2019,Israel,grand-final,S!sters,Sister,Germany,4,24,25,False,4756,0.5,True
+77,Lisbon,2018,Portugal,grand-final,Waylon,Outlaw In 'Em,Netherlands,23,121,18,False,4988,2.43,True
+78,Lisbon,2018,Portugal,grand-final,DoReDoS,My Lucky Day,Moldova,19,209,10,False,4988,4.19,True
+79,Lisbon,2018,Portugal,grand-final,MELOVIN,Under The Ladder,Ukraine,1,130,17,False,4988,2.61,True
+80,Lisbon,2018,Portugal,grand-final,Alexander Rybak,That's How You Write A Song,Norway,7,144,15,False,4988,2.89,True
+81,Lisbon,2018,Portugal,grand-final,Lea Sirk,"Hvala, ne!",Slovenia,3,64,22,False,4988,1.28,True
+82,Lisbon,2018,Portugal,grand-final,Elina Nechayeva,La Forza,Estonia,6,245,8,False,4988,4.91,True
+83,Lisbon,2018,Portugal,grand-final,Netta,TOY,Israel,22,529,1,True,4988,10.61,True
+84,Lisbon,2018,Portugal,grand-final,Jessica Mauboy,We Got Love,Australia,16,99,20,False,4988,1.98,True
+85,Lisbon,2018,Portugal,grand-final,Rasmussen,Higher Ground,Denmark,15,226,9,False,4988,4.53,True
+86,Lisbon,2018,Portugal,grand-final,Sanja Ilić & Balkanika,Nova Deca,Serbia,10,113,19,False,4988,2.27,True
+87,Lisbon,2018,Portugal,grand-final,Mikolas Josef,Lie To Me,Czech Republic,14,281,6,False,4988,5.63,True
+88,Lisbon,2018,Portugal,grand-final,Eleni Foureira,Fuego,Cyprus,25,436,2,False,4988,8.74,True
+89,Lisbon,2018,Portugal,grand-final,Ryan O'Shaughnessy,Together,Ireland,24,136,16,False,4988,2.73,True
+90,Lisbon,2018,Portugal,grand-final,Eugent Bushpepa,Mall,Albania,12,184,11,False,4988,3.69,True
+91,Lisbon,2018,Portugal,grand-final,AWS,Viszlát Nyár,Hungary,21,93,21,False,4988,1.86,True
+92,Lisbon,2018,Portugal,grand-final,Benjamin Ingrosso,Dance You Off,Sweden,20,274,7,False,4988,5.49,True
+93,Lisbon,2018,Portugal,grand-final,Ieva Zasimauskaitė,When We're Old,Lithuania,4,181,12,False,4988,3.63,True
+94,Lisbon,2018,Portugal,grand-final,Cesár Sampson,Nobody But You,Austria,5,342,3,False,4988,6.86,True
+95,Lisbon,2018,Portugal,grand-final,EQUINOX,Bones,Bulgaria,18,166,14,False,4988,3.33,True
+96,Lisbon,2018,Portugal,grand-final,Saara Aalto,Monsters,Finland,17,46,25,False,4988,0.92,True
+97,Lisbon,2018,Portugal,grand-final,Cláudia Pascoal,O Jardim,Portugal,8,39,26,False,4988,0.78,True
+98,Lisbon,2018,Portugal,grand-final,SuRie,Storm,United Kingdom,9,48,24,False,4988,0.96,True
+99,Lisbon,2018,Portugal,grand-final,Amaia y Alfred,Tu Canción,Spain,2,61,23,False,4988,1.22,True
+100,Lisbon,2018,Portugal,grand-final,Ermal Meta e Fabrizio Moro,Non Mi Avete Fatto Niente,Italy,26,308,5,False,4988,6.17,True
+101,Lisbon,2018,Portugal,grand-final,Madame Monsieur,Mercy,France,13,173,13,False,4988,3.47,True
+102,Lisbon,2018,Portugal,grand-final,Michael Schulte,You Let Me Walk Alone,Germany,11,340,4,False,4988,6.82,True
+103,Kyiv,2017,Ukraine,grand-final,Alma,Requiem,France,26,135,12,False,4872,2.77,True
+104,Kyiv,2017,Ukraine,grand-final,Levina,Perfect Life,Germany,21,6,25,False,4872,0.12,True
+105,Kyiv,2017,Ukraine,grand-final,Manel Navarro,Do It For Your Lover,Spain,16,5,26,False,4872,0.1,True
+106,Kyiv,2017,Ukraine,grand-final,Lucie Jones,Never Give Up On You,United Kingdom,18,111,15,False,4872,2.28,True
+107,Kyiv,2017,Ukraine,grand-final,Francesco Gabbani,Occidentali's Karma,Italy,9,334,6,False,4872,6.86,True
+108,Kyiv,2017,Ukraine,grand-final,O.Torvald,Time,Ukraine,22,36,24,False,4872,0.74,True
+109,Kyiv,2017,Ukraine,grand-final,Kasia Moś,Flashlight,Poland,2,64,22,False,4872,1.31,True
+110,Kyiv,2017,Ukraine,grand-final,Demy,This is Love,Greece,15,77,19,False,4872,1.58,True
+111,Kyiv,2017,Ukraine,grand-final,Sunstroke Project,Hey Mamma,Moldova,7,374,3,False,4872,7.68,True
+112,Kyiv,2017,Ukraine,grand-final,Artsvik,Fly With Me,Armenia,5,79,18,False,4872,1.62,True
+113,Kyiv,2017,Ukraine,grand-final,Robin Bengtsson,I Can't Go On,Sweden,24,344,5,False,4872,7.06,True
+114,Kyiv,2017,Ukraine,grand-final,Blanche,City Lights,Belgium,23,363,4,False,4872,7.45,True
+115,Kyiv,2017,Ukraine,grand-final,Isaiah,Don't Come Easy,Australia,14,173,9,False,4872,3.55,True
+116,Kyiv,2017,Ukraine,grand-final,Dihaj,Skeletons,Azerbaijan,12,120,14,False,4872,2.46,True
+117,Kyiv,2017,Ukraine,grand-final,Hovig,Gravity,Cyprus,19,68,21,False,4872,1.4,True
+118,Kyiv,2017,Ukraine,grand-final,Salvador Sobral,Amar Pelos Dois,Portugal,11,758,1,True,4872,15.56,True
+119,Kyiv,2017,Ukraine,grand-final,JOWST,Grab The Moment,Norway,17,158,10,False,4872,3.24,True
+120,Kyiv,2017,Ukraine,grand-final,Naviband,Story of My Life,Belarus,3,83,17,False,4872,1.7,True
+121,Kyiv,2017,Ukraine,grand-final,Jacques Houdek,My Friend,Croatia,13,128,13,False,4872,2.63,True
+122,Kyiv,2017,Ukraine,grand-final,Kristian Kostov,Beautiful Mess,Bulgaria,25,615,2,False,4872,12.62,True
+123,Kyiv,2017,Ukraine,grand-final,IMRI,I Feel Alive,Israel,1,39,23,False,4872,0.8,True
+124,Kyiv,2017,Ukraine,grand-final,Nathan Trent,Running On Air,Austria,4,93,16,False,4872,1.91,True
+125,Kyiv,2017,Ukraine,grand-final,Joci Pápai,Origo,Hungary,8,200,8,False,4872,4.11,True
+126,Kyiv,2017,Ukraine,grand-final,Ilinca ft. Alex Florea,Yodel It!,Romania,20,282,7,False,4872,5.79,True
+127,Kyiv,2017,Ukraine,grand-final,Anja,Where I Am,Denmark,10,77,20,False,4872,1.58,True
+128,Kyiv,2017,Ukraine,grand-final,OG3NE,Lights and Shadows,Netherlands,6,150,11,False,4872,3.08,True
+129,Stockholm,2016,Sweden,grand-final,Sanja Vučić ZAA,Goodbye (Shelter),Serbia,15,115,18,False,4872,2.36,True
+130,Stockholm,2016,Sweden,grand-final,Michał Szpak,Color Of Your Life,Poland,12,229,8,False,4872,4.7,True
+131,Stockholm,2016,Sweden,grand-final,Laura Tesoro,What's The Pressure,Belgium,1,181,10,False,4872,3.72,True
+132,Stockholm,2016,Sweden,grand-final,Jamala,1944,Ukraine,21,534,1,True,4872,10.96,True
+133,Stockholm,2016,Sweden,grand-final,Donny Montell,I've Been Waiting for This Night,Lithuania,16,200,9,False,4872,4.11,True
+134,Stockholm,2016,Sweden,grand-final,Dami Im,Sound Of Silence,Australia,13,511,2,False,4872,10.49,True
+135,Stockholm,2016,Sweden,grand-final,Nika Kocharov and Young Georgian Lolitaz,Midnight Gold,Georgia,23,104,20,False,4872,2.13,True
+136,Stockholm,2016,Sweden,grand-final,Poli Genova,If Love Was A Crime,Bulgaria,8,307,4,False,4872,6.3,True
+137,Stockholm,2016,Sweden,grand-final,Justs,Heartbeat,Latvia,20,132,15,False,4872,2.71,True
+138,Stockholm,2016,Sweden,grand-final,Hovi Star,Made Of Stars,Israel,7,135,14,False,4872,2.77,True
+139,Stockholm,2016,Sweden,grand-final,ZOË,Loin d'ici,Austria,24,151,13,False,4872,3.1,True
+140,Stockholm,2016,Sweden,grand-final,Douwe Bob,Slow Down,Netherlands,3,153,11,False,4872,3.14,True
+141,Stockholm,2016,Sweden,grand-final,Sergey Lazarev,You Are The Only One,Russia,18,491,3,False,4872,10.08,True
+142,Stockholm,2016,Sweden,grand-final,Freddie,Pioneer,Hungary,5,108,19,False,4872,2.22,True
+143,Stockholm,2016,Sweden,grand-final,Gabriela Gunčíková,I Stand,Czech Republic,2,41,25,False,4872,0.84,True
+144,Stockholm,2016,Sweden,grand-final,Iveta Mukuchyan,LoveWave,Armenia,26,249,7,False,4872,5.11,True
+145,Stockholm,2016,Sweden,grand-final,Ira Losco,Walk On Water,Malta,22,153,12,False,4872,3.14,True
+146,Stockholm,2016,Sweden,grand-final,Minus One,Alter Ego,Cyprus,14,96,21,False,4872,1.97,True
+147,Stockholm,2016,Sweden,grand-final,Nina Kraljić,Lighthouse,Croatia,17,73,23,False,4872,1.5,True
+148,Stockholm,2016,Sweden,grand-final,Samra,Miracle,Azerbaijan,4,117,17,False,4872,2.4,True
+149,Stockholm,2016,Sweden,grand-final,Joe and Jake,You're Not Alone,United Kingdom,25,62,24,False,4872,1.27,True
+150,Stockholm,2016,Sweden,grand-final,Amir,J'ai cherché,France,11,257,6,False,4872,5.28,True
+151,Stockholm,2016,Sweden,grand-final,Francesca Michielin,No Degree Of Separation,Italy,6,124,16,False,4872,2.55,True
+152,Stockholm,2016,Sweden,grand-final,Barei,Say Yay!,Spain,19,77,22,False,4872,1.58,True
+153,Stockholm,2016,Sweden,grand-final,Jamie-Lee,Ghost,Germany,10,11,26,False,4872,0.23,True
+154,Stockholm,2016,Sweden,grand-final,Frans,If I Were Sorry,Sweden,9,261,5,False,4872,5.36,True
+155,Vienna,2015,Austria,grand-final,Guy Sebastian,Tonight Again,Australia,12,196,5,False,2320,8.45,True
+156,Vienna,2015,Austria,grand-final,Edurne,Amanecer,Spain,21,15,21,False,2320,0.65,True
+157,Vienna,2015,Austria,grand-final,Lisa Angell,N'oubliez Pas,France,2,4,25,False,2320,0.17,True
+158,Vienna,2015,Austria,grand-final,Il Volo,Grande Amore,Italy,27,292,3,False,2320,12.59,True
+159,Vienna,2015,Austria,grand-final,Electro Velvet,Still In Love With You,United Kingdom,5,5,24,False,2320,0.22,True
+160,Vienna,2015,Austria,grand-final,Genealogy,Face The Shadow,Armenia,6,34,16,False,2320,1.47,True
+161,Vienna,2015,Austria,grand-final,Boggie,Wars For Nothing,Hungary,22,19,20,False,2320,0.82,True
+162,Vienna,2015,Austria,grand-final,Loïc Nottet,Rhythm Inside,Belgium,13,217,4,False,2320,9.35,True
+163,Vienna,2015,Austria,grand-final,Nina Sublatti,Warrior,Georgia,23,51,11,False,2320,2.2,True
+164,Vienna,2015,Austria,grand-final,Elhaida Dani,I'm Alive,Albania,26,34,17,False,2320,1.47,True
+165,Vienna,2015,Austria,grand-final,Polina Gagarina,A Million Voices,Russia,25,303,2,False,2320,13.06,True
+166,Vienna,2015,Austria,grand-final,Elina Born & Stig Rästa,Goodbye To Yesterday,Estonia,4,106,7,False,2320,4.57,True
+167,Vienna,2015,Austria,grand-final,Voltaj,De La Capat/ All Over Again,Romania,20,35,15,False,2320,1.51,True
+168,Vienna,2015,Austria,grand-final,Maria Elena Kyriakou,One Last Breath,Greece,15,23,19,False,2320,0.99,True
+169,Vienna,2015,Austria,grand-final,Bojana Stamenov,Beauty Never Lies,Serbia,8,53,10,False,2320,2.28,True
+170,Vienna,2015,Austria,grand-final,Måns Zelmerlöw,Heroes,Sweden,10,365,1,True,2320,15.73,True
+171,Vienna,2015,Austria,grand-final,Knez,Adio,Montenegro,16,44,13,False,2320,1.9,True
+172,Vienna,2015,Austria,grand-final,The Makemakes,I Am Yours,Austria,14,0,26,False,2320,0.0,True
+173,Vienna,2015,Austria,grand-final,Ann Sophie,Black Smoke,Germany,17,0,27,False,2320,0.0,True
+174,Vienna,2015,Austria,grand-final,John Karayiannis,One Thing I Should Have Done,Cyprus,11,11,22,False,2320,0.47,True
+175,Vienna,2015,Austria,grand-final,Nadav Guedj,Golden Boy,Israel,3,97,9,False,2320,4.18,True
+176,Vienna,2015,Austria,grand-final,Monika Kuszyńska,In The Name Of Love,Poland,18,10,23,False,2320,0.43,True
+177,Vienna,2015,Austria,grand-final,Monika Linkytė and Vaidas Baumila,This Time,Lithuania,7,30,18,False,2320,1.29,True
+178,Vienna,2015,Austria,grand-final,Aminata,Love Injected,Latvia,19,186,6,False,2320,8.02,True
+179,Vienna,2015,Austria,grand-final,Maraaya,Here For You,Slovenia,1,39,14,False,2320,1.68,True
+180,Vienna,2015,Austria,grand-final,Elnur Huseynov,Hour Of The Wolf,Azerbaijan,24,49,12,False,2320,2.11,True
+181,Vienna,2015,Austria,grand-final,Mørland & Debrah Scarlett,A Monster Like Me,Norway,9,102,8,False,2320,4.4,True
+182,Copenhagen,2014,Denmark,grand-final,Molly,Children of the Universe,United Kingdom,26,40,17,False,2146,1.86,True
+183,Copenhagen,2014,Denmark,grand-final,Emma,La Mia Città,Italy,16,33,21,False,2146,1.54,True
+184,Copenhagen,2014,Denmark,grand-final,Elaiza,Is it right,Germany,12,39,18,False,2146,1.82,True
+185,Copenhagen,2014,Denmark,grand-final,Basim,Cliche Love Song,Denmark,23,74,9,False,2146,3.45,True
+186,Copenhagen,2014,Denmark,grand-final,TWIN TWIN,Moustache,France,14,2,26,False,2146,0.09,True
+187,Copenhagen,2014,Denmark,grand-final,Ruth Lorenzo,Dancing in the rain,Spain,19,74,10,False,2146,3.45,True
+188,Copenhagen,2014,Denmark,grand-final,The Common Linnets,Calm After The Storm,Netherlands,24,238,2,False,2146,11.09,True
+189,Copenhagen,2014,Denmark,grand-final,Mariya Yaremchuk,Tick - Tock,Ukraine,1,113,6,False,2146,5.27,True
+190,Copenhagen,2014,Denmark,grand-final,Valentina Monetta,Maybe (Forse),San Marino,25,14,24,False,2146,0.65,True
+191,Copenhagen,2014,Denmark,grand-final,Sergej Ćetković,Moj Svijet,Montenegro,8,37,19,False,2146,1.72,True
+192,Copenhagen,2014,Denmark,grand-final,András Kállay-Saunders,Running,Hungary,21,143,5,False,2146,6.66,True
+193,Copenhagen,2014,Denmark,grand-final,Aram MP3,Not Alone,Armenia,7,174,4,False,2146,8.11,True
+194,Copenhagen,2014,Denmark,grand-final,Dilara Kazimova,Start A Fire,Azerbaijan,3,33,22,False,2146,1.54,True
+195,Copenhagen,2014,Denmark,grand-final,Tolmachevy Sisters,Shine,Russia,15,89,7,False,2146,4.15,True
+196,Copenhagen,2014,Denmark,grand-final,Pollapönk,No Prejudice,Iceland,4,58,15,False,2146,2.7,True
+197,Copenhagen,2014,Denmark,grand-final,Sanna Nielsen,Undo,Sweden,13,218,3,False,2146,10.16,True
+198,Copenhagen,2014,Denmark,grand-final,Freaky Fortune feat. RiskyKidd,Rise Up,Greece,10,35,20,False,2146,1.63,True
+199,Copenhagen,2014,Denmark,grand-final,Sebalter,Hunter Of Stars,Switzerland,20,64,13,False,2146,2.98,True
+200,Copenhagen,2014,Denmark,grand-final,Teo,Cheesecake,Belarus,2,43,16,False,2146,2.0,True
+201,Copenhagen,2014,Denmark,grand-final,Tinkara Kovač,Round and round,Slovenia,17,9,25,False,2146,0.42,True
+202,Copenhagen,2014,Denmark,grand-final,Paula Seling & OVI,Miracle,Romania,6,72,12,False,2146,3.36,True
+203,Copenhagen,2014,Denmark,grand-final,Softengine,Something Better,Finland,18,72,11,False,2146,3.36,True
+204,Copenhagen,2014,Denmark,grand-final,Firelight,Coming Home,Malta,22,32,23,False,2146,1.49,True
+205,Copenhagen,2014,Denmark,grand-final,Donatan & Cleo,My Słowianie - We Are Slavic,Poland,9,62,14,False,2146,2.89,True
+206,Copenhagen,2014,Denmark,grand-final,Conchita Wurst,Rise Like a Phoenix,Austria,11,290,1,True,2146,13.51,True
+207,Copenhagen,2014,Denmark,grand-final,Carl Espen,Silent Storm,Norway,5,88,8,False,2146,4.1,True
+208,Malmö,2013,Sweden,grand-final,Dorians,Lonely Planet,Armenia,12,41,18,False,2262,1.81,True
+209,Malmö,2013,Sweden,grand-final,Anouk,Birds,Netherlands,13,114,9,False,2262,5.04,True
+210,Malmö,2013,Sweden,grand-final,Roberto Bellarosa,Love Kills,Belgium,6,71,12,False,2262,3.14,True
+211,Malmö,2013,Sweden,grand-final,ByeAlex,Kedvesem (Zoohacker Remix),Hungary,17,84,10,False,2262,3.71,True
+212,Malmö,2013,Sweden,grand-final,Krista Siegfrids,Marry Me,Finland,4,13,24,False,2262,0.57,True
+213,Malmö,2013,Sweden,grand-final,Zlata Ognevich,Gravity,Ukraine,22,214,3,False,2262,9.46,True
+214,Malmö,2013,Sweden,grand-final,Dina Garipova,What If,Russia,10,174,5,False,2262,7.69,True
+215,Malmö,2013,Sweden,grand-final,Cezar,It's My Life,Romania,14,65,13,False,2262,2.87,True
+216,Malmö,2013,Sweden,grand-final,Nodi Tatishvili & Sophie Gelovani,Waterfall,Georgia,25,50,15,False,2262,2.21,True
+217,Malmö,2013,Sweden,grand-final,Farid Mammadov,Hold Me,Azerbaijan,20,234,2,False,2262,10.34,True
+218,Malmö,2013,Sweden,grand-final,Ryan Dolan,Only Love Survives,Ireland,26,5,26,False,2262,0.22,True
+219,Malmö,2013,Sweden,grand-final,Aliona Moon,O Mie,Moldova,3,71,11,False,2262,3.14,True
+220,Malmö,2013,Sweden,grand-final,Margaret Berger,I Feed You My Love,Norway,24,191,4,False,2262,8.44,True
+221,Malmö,2013,Sweden,grand-final,Birgit,Et Uus Saaks Alguse,Estonia,7,19,20,False,2262,0.84,True
+222,Malmö,2013,Sweden,grand-final,Alyona Lanskaya,Solayoh,Belarus,8,48,16,False,2262,2.12,True
+223,Malmö,2013,Sweden,grand-final,Gianluca,Tomorrow,Malta,9,120,8,False,2262,5.31,True
+224,Malmö,2013,Sweden,grand-final,Andrius Pojavis,Something,Lithuania,2,17,22,False,2262,0.75,True
+225,Malmö,2013,Sweden,grand-final,Eythor Ingi,Ég Á Líf,Iceland,19,47,17,False,2262,2.08,True
+226,Malmö,2013,Sweden,grand-final,Koza Mostra feat. Agathon Iakovidis,Alcohol Is Free,Greece,21,152,6,False,2262,6.72,True
+227,Malmö,2013,Sweden,grand-final,Emmelie de Forest,Only Teardrops,Denmark,18,281,1,True,2262,12.42,True
+228,Malmö,2013,Sweden,grand-final,ESDM,Contigo Hasta El Final (With You Until The End),Spain,5,8,25,False,2262,0.35,True
+229,Malmö,2013,Sweden,grand-final,Marco Mengoni,L'Essenziale,Italy,23,126,7,False,2262,5.57,True
+230,Malmö,2013,Sweden,grand-final,Bonnie Tyler,Believe In Me,United Kingdom,15,23,19,False,2262,1.02,True
+231,Malmö,2013,Sweden,grand-final,Robin Stjernberg,You,Sweden,16,62,14,False,2262,2.74,True
+232,Malmö,2013,Sweden,grand-final,Cascada,Glorious,Germany,11,18,21,False,2262,0.8,True
+233,Malmö,2013,Sweden,grand-final,Amandine Bourgeois,L'enfer Et Moi,France,1,14,23,False,2262,0.62,True
+234,Baku,2012,Azerbaijan,grand-final,Anggun,Echo (You And I),France,9,21,22,False,2436,0.86,True
+235,Baku,2012,Azerbaijan,grand-final,Sabina Babayeva,When The Music Dies,Azerbaijan,13,150,4,False,2436,6.16,True
+236,Baku,2012,Azerbaijan,grand-final,Engelbert Humperdinck,Love Will Set You Free,United Kingdom,1,12,25,False,2436,0.49,True
+237,Baku,2012,Azerbaijan,grand-final,Nina Zilli,L'Amore È Femmina  (Out Of Love),Italy,10,101,9,False,2436,4.15,True
+238,Baku,2012,Azerbaijan,grand-final,Pastora Soler,Quédate Conmigo (Stay With Me),Spain,19,97,10,False,2436,3.98,True
+239,Baku,2012,Azerbaijan,grand-final,Roman Lob,Standing Still,Germany,20,110,8,False,2436,4.52,True
+240,Baku,2012,Azerbaijan,grand-final,Maya Sar,Korake Ti Znam,Bosnia & Herzegovina,5,55,18,False,2436,2.26,True
+241,Baku,2012,Azerbaijan,grand-final,Donny Montell,Love Is Blind,Lithuania,4,70,14,False,2436,2.87,True
+242,Baku,2012,Azerbaijan,grand-final,Gaitana,Be My Guest,Ukraine,25,65,15,False,2436,2.67,True
+243,Baku,2012,Azerbaijan,grand-final,Tooji,Stay,Norway,12,7,26,False,2436,0.29,True
+244,Baku,2012,Azerbaijan,grand-final,Kurt Calleja,This Is The Night,Malta,21,41,21,False,2436,1.68,True
+245,Baku,2012,Azerbaijan,grand-final,Can Bonomo,Love Me Back,Turkey,18,112,7,False,2436,4.6,True
+246,Baku,2012,Azerbaijan,grand-final,Ott Lepland,Kuula,Estonia,11,120,6,False,2436,4.93,True
+247,Baku,2012,Azerbaijan,grand-final,Kaliopi,Crno I Belo,North Macedonia,22,71,13,False,2436,2.91,True
+248,Baku,2012,Azerbaijan,grand-final,Loreen,Euphoria,Sweden,17,372,1,True,2436,15.27,True
+249,Baku,2012,Azerbaijan,grand-final,Željko Joksimović,Nije Ljubav Stvar,Serbia,24,214,3,False,2436,8.78,True
+250,Baku,2012,Azerbaijan,grand-final,Compact Disco,Sound Of Our Hearts,Hungary,2,19,24,False,2436,0.78,True
+251,Baku,2012,Azerbaijan,grand-final,Jedward,Waterline,Ireland,23,46,19,False,2436,1.89,True
+252,Baku,2012,Azerbaijan,grand-final,Eleftheria Eleftheriou,Aphrodisiac,Greece,16,64,17,False,2436,2.63,True
+253,Baku,2012,Azerbaijan,grand-final,Buranovskiye Babushki,Party For Everybody,Russia,6,259,2,False,2436,10.63,True
+254,Baku,2012,Azerbaijan,grand-final,Soluna Samay,Should've Known Better,Denmark,15,21,23,False,2436,0.86,True
+255,Baku,2012,Azerbaijan,grand-final,Rona Nishliu,Suus,Albania,3,146,5,False,2436,5.99,True
+256,Baku,2012,Azerbaijan,grand-final,Mandinga,Zaleilah,Romania,14,71,12,False,2436,2.91,True
+257,Baku,2012,Azerbaijan,grand-final,Ivi Adamou,La La Love,Cyprus,8,65,16,False,2436,2.67,True
+258,Baku,2012,Azerbaijan,grand-final,Pasha Parfeny,Lăutar,Moldova,26,81,11,False,2436,3.33,True
+259,Baku,2012,Azerbaijan,grand-final,Greta Salóme & Jónsi,Never Forget,Iceland,7,46,20,False,2436,1.89,True
+260,Düsseldorf,2011,Germany,grand-final,Lucía Pérez,Que Me Quiten Lo Bailao  -  They Can't Take The Fun Away From Me,Spain,22,50,23,False,2494,2.0,True
+261,Düsseldorf,2011,Germany,grand-final,Amaury Vassili,Sognu,France,11,82,15,False,2494,3.29,True
+262,Düsseldorf,2011,Germany,grand-final,Blue,I Can,United Kingdom,14,100,11,False,2494,4.01,True
+263,Düsseldorf,2011,Germany,grand-final,Raphael Gualazzi,Madness Of Love,Italy,12,189,2,False,2494,7.58,True
+264,Düsseldorf,2011,Germany,grand-final,Lena,Taken By A Stranger,Germany,16,107,10,False,2494,4.29,True
+265,Düsseldorf,2011,Germany,grand-final,Nadine Beiler,The Secret Is Love,Austria,18,64,18,False,2494,2.57,True
+266,Düsseldorf,2011,Germany,grand-final,Dino Merlin,Love In Rewind,Bosnia & Herzegovina,2,125,6,False,2494,5.01,True
+267,Düsseldorf,2011,Germany,grand-final,Zdob și Zdub,So Lucky,Moldova,15,97,12,False,2494,3.89,True
+268,Düsseldorf,2011,Germany,grand-final,Eric Saade,Popular,Sweden,7,185,3,False,2494,7.42,True
+269,Düsseldorf,2011,Germany,grand-final,Mika Newton,Angel,Ukraine,23,159,4,False,2494,6.38,True
+270,Düsseldorf,2011,Germany,grand-final,A Friend In London,New Tomorrow,Denmark,3,134,5,False,2494,5.37,True
+271,Düsseldorf,2011,Germany,grand-final,Getter Jaani,Rockefeller Street,Estonia,8,44,24,False,2494,1.76,True
+272,Düsseldorf,2011,Germany,grand-final,Jedward,Lipstick,Ireland,6,119,8,False,2494,4.77,True
+273,Düsseldorf,2011,Germany,grand-final,Hotel FM,Change,Romania,17,77,17,False,2494,3.09,True
+274,Düsseldorf,2011,Germany,grand-final,Maja Keuc,No One,Slovenia,20,96,13,False,2494,3.85,True
+275,Düsseldorf,2011,Germany,grand-final,Paradise Oskar,Da Da Dam,Finland,1,57,21,False,2494,2.29,True
+276,Düsseldorf,2011,Germany,grand-final,Eldrine,One More Day,Georgia,25,110,9,False,2494,4.41,True
+277,Düsseldorf,2011,Germany,grand-final,Loucas Yiorkas feat. Stereo Mike,Watch My Dance,Greece,9,120,7,False,2494,4.81,True
+278,Düsseldorf,2011,Germany,grand-final,Sjonni's Friends,Coming Home,Iceland,21,61,20,False,2494,2.45,True
+279,Düsseldorf,2011,Germany,grand-final,Alexej Vorobjov,Get You,Russia,10,77,16,False,2494,3.09,True
+280,Düsseldorf,2011,Germany,grand-final,Nina,Čaroban,Serbia,24,85,14,False,2494,3.41,True
+281,Düsseldorf,2011,Germany,grand-final,Anna Rossinelli,In Love For A While,Switzerland,13,19,25,False,2494,0.76,True
+282,Düsseldorf,2011,Germany,grand-final,Ell/Nikki,Running Scared,Azerbaijan,19,221,1,True,2494,8.86,True
+283,Düsseldorf,2011,Germany,grand-final,Kati Wolf,What About My Dreams?,Hungary,5,53,22,False,2494,2.13,True
+284,Düsseldorf,2011,Germany,grand-final,Evelina Sašenko,C'est Ma Vie,Lithuania,4,63,19,False,2494,2.53,True
+285,Oslo,2010,Norway,grand-final,Eva Rivas,Apricot Stone,Armenia,21,141,7,False,2262,6.23,True
+286,Oslo,2010,Norway,grand-final,Harel Skaat,Milim,Israel,24,71,14,False,2262,3.14,True
+287,Oslo,2010,Norway,grand-final,Paula Seling & Ovi,Playing With Fire,Romania,19,162,3,False,2262,7.16,True
+288,Oslo,2010,Norway,grand-final,Jon Lilygreen & The Islanders,Life Looks Better In Spring,Cyprus,5,27,21,False,2262,1.19,True
+289,Oslo,2010,Norway,grand-final,Safura,Drip Drop,Azerbaijan,1,145,5,False,2262,6.41,True
+290,Oslo,2010,Norway,grand-final,Chanée & N'evergreen,In A Moment Like This,Denmark,25,149,4,False,2262,6.59,True
+291,Oslo,2010,Norway,grand-final,Alyosha,Sweet People,Ukraine,17,108,10,False,2262,4.77,True
+292,Oslo,2010,Norway,grand-final,Niamh Kavanagh,It's For You,Ireland,10,25,23,False,2262,1.11,True
+293,Oslo,2010,Norway,grand-final,maNga,We Could Be The Same,Turkey,14,170,2,False,2262,7.52,True
+294,Oslo,2010,Norway,grand-final,Sofia Nizharadze ,Shine,Georgia,13,136,9,False,2262,6.01,True
+295,Oslo,2010,Norway,grand-final,Juliana Pasha,It's All About You,Albania,15,62,16,False,2262,2.74,True
+296,Oslo,2010,Norway,grand-final,Tom Dice,Me And My Guitar,Belgium,7,143,6,False,2262,6.32,True
+297,Oslo,2010,Norway,grand-final,3+2,Butterflies,Belarus,9,18,24,False,2262,0.8,True
+298,Oslo,2010,Norway,grand-final,Filipa Azevedo,Há Dias Assim,Portugal,23,43,18,False,2262,1.9,True
+299,Oslo,2010,Norway,grand-final,Sunstroke Project & Olia Tira,Run Away,Moldova,4,27,22,False,2262,1.19,True
+300,Oslo,2010,Norway,grand-final,Hera Björk,Je Ne Sais Quoi,Iceland,16,41,19,False,2262,1.81,True
+301,Oslo,2010,Norway,grand-final,Vukašin Brajić,Thunder And Lightning,Bosnia & Herzegovina,6,51,17,False,2262,2.25,True
+302,Oslo,2010,Norway,grand-final,Giorgos Alkaios & Friends,OPA,Greece,11,140,8,False,2262,6.19,True
+303,Oslo,2010,Norway,grand-final,Peter Nalitch & Friends,Lost And Forgotten,Russia,20,90,11,False,2262,3.98,True
+304,Oslo,2010,Norway,grand-final,Milan Stanković,Ovo Je Balkan,Serbia,8,72,13,False,2262,3.18,True
+305,Oslo,2010,Norway,grand-final,Josh,That Sounds Good To Me,United Kingdom,12,10,25,False,2262,0.44,True
+306,Oslo,2010,Norway,grand-final,Jessy Matador,Allez Ola Olé,France,18,82,12,False,2262,3.63,True
+307,Oslo,2010,Norway,grand-final,Daniel Diges,Algo Pequeñito (Something Tiny),Spain,2,68,15,False,2262,3.01,True
+308,Oslo,2010,Norway,grand-final,Lena,Satellite,Germany,22,246,1,True,2262,10.88,True
+309,Oslo,2010,Norway,grand-final,Didrik Solli-Tangen,My Heart Is Yours,Norway,3,35,20,False,2262,1.55,True
+310,Moscow,2009,Russia,grand-final,Patricia Kaas,Et S'il Fallait Le Faire,France,3,107,8,False,2436,4.39,True
+311,Moscow,2009,Russia,grand-final,Alex Swings Oscar Sings!,Miss Kiss Kiss Bang,Germany,17,35,20,False,2436,1.44,True
+312,Moscow,2009,Russia,grand-final,Jade Ewen,It's My Time,United Kingdom,23,173,5,False,2436,7.1,True
+313,Moscow,2009,Russia,grand-final,Soraya,La Noche Es Para Mí (The Night Is For Me),Spain,25,23,24,False,2436,0.94,True
+314,Moscow,2009,Russia,grand-final,Anastasia Prikhodko,Mamo,Russia,10,91,11,False,2436,3.74,True
+315,Moscow,2009,Russia,grand-final,Kejsi Tola,Carry Me In Your Dreams,Albania,19,48,17,False,2436,1.97,True
+316,Moscow,2009,Russia,grand-final,Nelly Ciobanu,Hora Din Moldova,Moldova,13,69,14,False,2436,2.83,True
+317,Moscow,2009,Russia,grand-final,Urban Symphony,Rändajad,Estonia,15,129,6,False,2436,5.3,True
+318,Moscow,2009,Russia,grand-final,Igor Cukrov feat. Andrea,Lijepa Tena,Croatia,5,45,18,False,2436,1.85,True
+319,Moscow,2009,Russia,grand-final,Sasha Son,Love,Lithuania,1,23,23,False,2436,0.94,True
+320,Moscow,2009,Russia,grand-final,Sakis Rouvas,This Is Our Night,Greece,8,120,7,False,2436,4.93,True
+321,Moscow,2009,Russia,grand-final,Svetlana Loboda,Be my Valentine! (Anti-crisis Girl),Ukraine,21,76,12,False,2436,3.12,True
+322,Moscow,2009,Russia,grand-final,Alexander Rybak,Fairytale,Norway,20,387,1,True,2436,15.89,True
+323,Moscow,2009,Russia,grand-final,AySel & Arash,Always,Azerbaijan,11,207,3,False,2436,8.5,True
+324,Moscow,2009,Russia,grand-final,Brinck,Believe Again,Denmark,16,74,13,False,2436,3.04,True
+325,Moscow,2009,Russia,grand-final,Inga & Anush,Jan Jan,Armenia,9,92,10,False,2436,3.78,True
+326,Moscow,2009,Russia,grand-final,Chiara,What If We,Malta,14,31,22,False,2436,1.27,True
+327,Moscow,2009,Russia,grand-final,Elena,The Balkan Girls,Romania,22,40,19,False,2436,1.64,True
+328,Moscow,2009,Russia,grand-final,Hadise,Düm Tek Tek,Turkey,18,177,4,False,2436,7.27,True
+329,Moscow,2009,Russia,grand-final,Waldo's People,Lose Control,Finland,24,22,25,False,2436,0.9,True
+330,Moscow,2009,Russia,grand-final,Flor-de-lis,Todas As Ruas Do Amor,Portugal,6,57,15,False,2436,2.34,True
+331,Moscow,2009,Russia,grand-final,Yohanna,Is It True?,Iceland,7,218,2,False,2436,8.95,True
+332,Moscow,2009,Russia,grand-final,Noa & Mira Awad,There Must Be Another Way,Israel,2,53,16,False,2436,2.18,True
+333,Moscow,2009,Russia,grand-final,Regina,Bistra Voda,Bosnia & Herzegovina,12,106,9,False,2436,4.35,True
+334,Moscow,2009,Russia,grand-final,Malena Ernman,La Voix,Sweden,4,33,21,False,2436,1.35,True
+335,Belgrade,2008,Serbia,grand-final,Diana Gurtskaya,Peace Will Come,Georgia,17,83,11,False,2494,3.33,True
+336,Belgrade,2008,Serbia,grand-final,Mor ve Ötesi,Deli,Turkey,12,138,7,False,2494,5.53,True
+337,Belgrade,2008,Serbia,grand-final,Charlotte Perrelli,Hero,Sweden,15,47,18,False,2494,1.88,True
+338,Belgrade,2008,Serbia,grand-final,Olta Boka,Zemrën E Lamë Peng,Albania,3,55,17,False,2494,2.21,True
+339,Belgrade,2008,Serbia,grand-final,Pirates Of The Sea,Wolves Of The Sea,Latvia,14,83,12,False,2494,3.33,True
+340,Belgrade,2008,Serbia,grand-final,Euroband,This Is My Life,Iceland,11,64,14,False,2494,2.57,True
+341,Belgrade,2008,Serbia,grand-final,Ani Lorak,Shady Lady,Ukraine,18,230,2,False,2494,9.22,True
+342,Belgrade,2008,Serbia,grand-final,Vânia Fernandes,Senhora Do Mar (Negras Águas),Portugal,13,69,13,False,2494,2.77,True
+343,Belgrade,2008,Serbia,grand-final,Simon Mathew,All Night Long,Denmark,16,60,15,False,2494,2.41,True
+344,Belgrade,2008,Serbia,grand-final,Kraljevi Ulice & 75 Cents,Romanca,Croatia,9,44,21,False,2494,1.76,True
+345,Belgrade,2008,Serbia,grand-final,Andy Abraham,Even If,United Kingdom,2,14,25,False,2494,0.56,True
+346,Belgrade,2008,Serbia,grand-final,Rodolfo Chikilicuatre,Baila El Chiki Chiki,Spain,22,55,16,False,2494,2.21,True
+347,Belgrade,2008,Serbia,grand-final,Jelena Tomašević feat. Bora Dugic,Oro,Serbia,23,160,6,False,2494,6.42,True
+348,Belgrade,2008,Serbia,grand-final,No Angels,Disappear,Germany,4,14,23,False,2494,0.56,True
+349,Belgrade,2008,Serbia,grand-final,Sébastien Tellier,Divine,France,19,47,19,False,2494,1.88,True
+350,Belgrade,2008,Serbia,grand-final,Dima Bilan,Believe,Russia,24,272,1,True,2494,10.91,True
+351,Belgrade,2008,Serbia,grand-final,Elnur & Samir,Day After Day,Azerbaijan,20,132,8,False,2494,5.29,True
+352,Belgrade,2008,Serbia,grand-final,Sirusho,"Qele, Qele",Armenia,5,199,4,False,2494,7.98,True
+353,Belgrade,2008,Serbia,grand-final,Maria,Hold On Be Strong,Norway,25,182,5,False,2494,7.3,True
+354,Belgrade,2008,Serbia,grand-final,Nico & Vlad,Pe-o Margine De Lume,Romania,1,45,20,False,2494,1.8,True
+355,Belgrade,2008,Serbia,grand-final,Laka,Pokušaj,Bosnia & Herzegovina,6,110,10,False,2494,4.41,True
+356,Belgrade,2008,Serbia,grand-final,Isis Gee,For Life,Poland,10,14,24,False,2494,0.56,True
+357,Belgrade,2008,Serbia,grand-final,Boaz,The Fire In Your Eyes,Israel,7,124,9,False,2494,4.97,True
+358,Belgrade,2008,Serbia,grand-final,Kalomira,Secret Combination,Greece,21,218,3,False,2494,8.74,True
+359,Belgrade,2008,Serbia,grand-final,Teräsbetoni,Missä Miehet Ratsastaa,Finland,8,35,22,False,2494,1.4,True
+360,Helsinki,2007,Finland,grand-final,Hayko,Anytime You Need,Armenia,23,138,8,False,2436,5.67,True
+361,Helsinki,2007,Finland,grand-final,Todomondo,"Liubi, Liubi, I Love You",Romania,20,84,13,False,2436,3.45,True
+362,Helsinki,2007,Finland,grand-final,Scooch,Flying The Flag (for You),United Kingdom,19,19,22,False,2436,0.78,True
+363,Helsinki,2007,Finland,grand-final,Verka Serduchka,Dancing Lasha Tumbai,Ukraine,18,235,2,False,2436,9.65,True
+364,Helsinki,2007,Finland,grand-final,Roger Cicero,Frauen Regieren Die Welt,Germany,16,49,19,False,2436,2.01,True
+365,Helsinki,2007,Finland,grand-final,Serebro,Song # 1,Russia,15,207,3,False,2436,8.5,True
+366,Helsinki,2007,Finland,grand-final,Marija Sestic,Rijeka Bez Imena,Bosnia & Herzegovina,1,106,11,False,2436,4.35,True
+367,Helsinki,2007,Finland,grand-final,NASH,I Love You Mi Vida,Spain,2,43,20,False,2436,1.77,True
+368,Helsinki,2007,Finland,grand-final,Dervish,They Can't Stop The Spring,Ireland,4,5,24,False,2436,0.21,True
+369,Helsinki,2007,Finland,grand-final,Hanna Pakarinen,Leave Me Alone,Finland,5,53,17,False,2436,2.18,True
+370,Helsinki,2007,Finland,grand-final,4Fun,Love Or Leave,Lithuania,9,28,21,False,2436,1.15,True
+371,Helsinki,2007,Finland,grand-final,Sarbel,Yassou Maria,Greece,10,139,7,False,2436,5.71,True
+372,Helsinki,2007,Finland,grand-final,The Ark,The Worrying Kind,Sweden,12,51,18,False,2436,2.09,True
+373,Helsinki,2007,Finland,grand-final,Les Fatals Picards,L'amour à La Française,France,13,19,22,False,2436,0.78,True
+374,Helsinki,2007,Finland,grand-final,Bonaparti.lv,Questa Notte,Latvia,14,54,16,False,2436,2.22,True
+375,Helsinki,2007,Finland,grand-final,Kenan Dogulu,Shake It Up Shekerim,Turkey,22,163,4,False,2436,6.69,True
+376,Helsinki,2007,Finland,grand-final,Alenka Gotar,Cvet Z Juga,Slovenia,7,66,15,False,2436,2.71,True
+377,Helsinki,2007,Finland,grand-final,Magdi Rúzsa,Unsubstantial Blues,Hungary,8,128,9,False,2436,5.25,True
+378,Helsinki,2007,Finland,grand-final,Karolina,Mojot Svet,North Macedonia,6,73,14,False,2436,3.0,True
+379,Helsinki,2007,Finland,grand-final,Marija Šerifović,Molitva,Serbia,17,268,1,True,2436,11.0,True
+380,Helsinki,2007,Finland,grand-final,Natalia Barbu,Fight,Moldova,24,109,10,False,2436,4.47,True
+381,Helsinki,2007,Finland,grand-final,Sopho,Visionary Dream,Georgia,11,97,12,False,2436,3.98,True
+382,Helsinki,2007,Finland,grand-final,Dmitry Koldun,Work Your Magic,Belarus,3,145,6,False,2436,5.95,True
+383,Helsinki,2007,Finland,grand-final,Elitsa Todorova & Stoyan Yankulov,Water,Bulgaria,21,157,5,False,2436,6.44,True
+384,Athens,2006,Greece,grand-final,Severina,Moja Štikla,Croatia,20,56,12,False,2204,2.54,True
+385,Athens,2006,Greece,grand-final,Virginie Pouchin,Il était Temps,France,19,5,22,False,2204,0.23,True
+386,Athens,2006,Greece,grand-final,Anna Vissi,Everything,Greece,16,128,9,False,2204,5.81,True
+387,Athens,2006,Greece,grand-final,Daz Sampson,Teenage Life,United Kingdom,15,25,19,False,2204,1.13,True
+388,Athens,2006,Greece,grand-final,Mihai Traistariu,Tornero,Romania,12,172,4,False,2204,7.8,True
+389,Athens,2006,Greece,grand-final,Six4One,If We All Give A Little,Switzerland,1,30,16,False,2204,1.36,True
+390,Athens,2006,Greece,grand-final,Arsenium & Natalia Gordienko,Loca,Moldova,2,22,20,False,2204,1.0,True
+391,Athens,2006,Greece,grand-final,Eddie Butler,Ze Hazman,Israel,3,4,23,False,2204,0.18,True
+392,Athens,2006,Greece,grand-final,Cosmos,I Hear Your Heart,Latvia,4,30,16,False,2204,1.36,True
+393,Athens,2006,Greece,grand-final,Christine Guldbrandsen,Alvedansen,Norway,5,36,14,False,2204,1.63,True
+394,Athens,2006,Greece,grand-final,Las Ketchup,Bloody Mary,Spain,6,18,21,False,2204,0.82,True
+395,Athens,2006,Greece,grand-final,Fabrizio Faniello,I Do,Malta,7,1,24,False,2204,0.05,True
+396,Athens,2006,Greece,grand-final,Texas Lightning,"No, No, Never",Germany,8,36,14,False,2204,1.63,True
+397,Athens,2006,Greece,grand-final,Sidsel Ben Semmane,Twist Of Love,Denmark,9,26,18,False,2204,1.18,True
+398,Athens,2006,Greece,grand-final,André,Without Your Love,Armenia,24,129,8,False,2204,5.85,True
+399,Athens,2006,Greece,grand-final,Brian Kennedy,Every Song Is A Cry For Love,Ireland,21,93,10,False,2204,4.22,True
+400,Athens,2006,Greece,grand-final,Elena Risteska,Ninanajna,North Macedonia,11,56,12,False,2204,2.54,True
+401,Athens,2006,Greece,grand-final,Dima Bilan,Never Let You Go,Russia,10,248,2,False,2204,11.25,True
+402,Athens,2006,Greece,grand-final,Sibel Tüzün,Superstar,Turkey,23,91,11,False,2204,4.13,True
+403,Athens,2006,Greece,grand-final,Tina Karol,Show Me Your Love,Ukraine,18,145,7,False,2204,6.58,True
+404,Athens,2006,Greece,grand-final,Lordi,Hard Rock Hallelujah,Finland,17,292,1,True,2204,13.25,True
+405,Athens,2006,Greece,grand-final,LT United,We Are The Winners,Lithuania,14,162,6,False,2204,7.35,True
+406,Athens,2006,Greece,grand-final,Carola,Invincible,Sweden,22,170,5,False,2204,7.71,True
+407,Athens,2006,Greece,grand-final,Hari Mata Hari,Lejla,Bosnia & Herzegovina,13,229,3,False,2204,10.39,True
+408,Kyiv,2005,Ukraine,grand-final,Ortal,Chacun Pense à Soi,France,24,11,23,False,2262,0.49,True
+409,Kyiv,2005,Ukraine,grand-final,Feminnem,Call Me,Bosnia & Herzegovina,21,79,14,False,2262,3.49,True
+410,Kyiv,2005,Ukraine,grand-final,Natalia Podolskaya,Nobody Hurt No One,Russia,20,57,15,False,2262,2.52,True
+411,Kyiv,2005,Ukraine,grand-final,Helena Paparizou,My Number One,Greece,19,230,1,True,2262,10.17,True
+412,Kyiv,2005,Ukraine,grand-final,Gracia,Run & Hide,Germany,17,4,24,False,2262,0.18,True
+413,Kyiv,2005,Ukraine,grand-final,Greenjolly,Razom Nas Bahato,Ukraine,16,30,19,False,2262,1.33,True
+414,Kyiv,2005,Ukraine,grand-final,Martin Stenmarck,Las Vegas,Sweden,14,30,19,False,2262,1.33,True
+415,Kyiv,2005,Ukraine,grand-final,No Name,Zauvijek Moja,Serbia & Montenegro,12,137,7,False,2262,6.06,True
+416,Kyiv,2005,Ukraine,grand-final,Son de sol,Brujería,Spain,10,28,21,False,2262,1.24,True
+417,Kyiv,2005,Ukraine,grand-final,Constantinos Christoforou,Ela Ela,Cyprus,9,46,18,False,2262,2.03,True
+418,Kyiv,2005,Ukraine,grand-final,Ledina Celo,Tomorrow I Go,Albania,8,53,16,False,2262,2.34,True
+419,Kyiv,2005,Ukraine,grand-final,Gülseren,Rimi Rimi Ley,Turkey,6,92,13,False,2262,4.07,True
+420,Kyiv,2005,Ukraine,grand-final,Chiara,Angel,Malta,3,192,2,False,2262,8.49,True
+421,Kyiv,2005,Ukraine,grand-final,Javine,Touch My Fire,United Kingdom,2,18,22,False,2262,0.8,True
+422,Kyiv,2005,Ukraine,grand-final,Jakob Sveistrup,Talking To You,Denmark,13,125,9,False,2262,5.53,True
+423,Kyiv,2005,Ukraine,grand-final,Boris Novkovic feat. Lado members,Vukovi Umiru Sami,Croatia,18,115,11,False,2262,5.08,True
+424,Kyiv,2005,Ukraine,grand-final,Vanilla Ninja,Cool Vibes,Switzerland,22,128,8,False,2262,5.66,True
+425,Kyiv,2005,Ukraine,grand-final,Martin Vucic,Make My Day,North Macedonia,15,52,17,False,2262,2.3,True
+426,Kyiv,2005,Ukraine,grand-final,NOX,Forogj Világ,Hungary,1,97,12,False,2262,4.29,True
+427,Kyiv,2005,Ukraine,grand-final,Luminita Anghel & Sistem,Let Me Try,Romania,4,158,3,False,2262,6.98,True
+428,Kyiv,2005,Ukraine,grand-final,Wig Wam,In My Dreams,Norway,5,125,9,False,2262,5.53,True
+429,Kyiv,2005,Ukraine,grand-final,Shiri Maymon,Hasheket Shenish'ar,Israel,11,154,4,False,2262,6.81,True
+430,Kyiv,2005,Ukraine,grand-final,Walter & Kazha,The War Is Not Over,Latvia,23,153,5,False,2262,6.76,True
+431,Kyiv,2005,Ukraine,grand-final,Zdob si Zdub,Boonika Bate Toba,Moldova,7,148,6,False,2262,6.54,True
+432,Istanbul,2004,Turkey,grand-final,Ramón,Para Llenarme De Ti,Spain,1,87,10,False,2088,4.17,True
+433,Istanbul,2004,Turkey,grand-final,Tie Break,Du Bist,Austria,2,9,21,False,2088,0.43,True
+434,Istanbul,2004,Turkey,grand-final,Knut Anders Sørum,High,Norway,3,3,24,False,2088,0.14,True
+435,Istanbul,2004,Turkey,grand-final,Jonatan Cerrada,A Chaque Pas,France,4,40,15,False,2088,1.92,True
+436,Istanbul,2004,Turkey,grand-final,Željko Joksimović,Lane Moje,Serbia & Montenegro,5,263,2,False,2088,12.6,True
+437,Istanbul,2004,Turkey,grand-final,Julie & Ludwig,On Again... Off Again,Malta,6,50,12,False,2088,2.39,True
+438,Istanbul,2004,Turkey,grand-final,Re-union,Without You,Netherlands,7,11,20,False,2088,0.53,True
+439,Istanbul,2004,Turkey,grand-final,Max (Maximilian Mutzke),Can't Wait Until Tonight,Germany,8,93,8,False,2088,4.45,True
+440,Istanbul,2004,Turkey,grand-final,Anjeza Shahini,The Image Of You,Albania,9,106,7,False,2088,5.08,True
+441,Istanbul,2004,Turkey,grand-final,Ruslana,Wild Dances,Ukraine,10,280,1,True,2088,13.41,True
+442,Istanbul,2004,Turkey,grand-final,Lena Philipsson,It Hurts,Sweden,24,170,5,False,2088,8.14,True
+443,Istanbul,2004,Turkey,grand-final,Sakis Rouvas,Shake It,Greece,16,252,3,False,2088,12.07,True
+444,Istanbul,2004,Turkey,grand-final,Jónsi,Heaven,Iceland,17,16,19,False,2088,0.77,True
+445,Istanbul,2004,Turkey,grand-final,Chris Doran,If My World Stopped Turning,Ireland,18,7,22,False,2088,0.34,True
+446,Istanbul,2004,Turkey,grand-final,Tose Proeski,Life,North Macedonia,15,47,14,False,2088,2.25,True
+447,Istanbul,2004,Turkey,grand-final,Julia Savicheva,Believe Me,Russia,14,67,11,False,2088,3.21,True
+448,Istanbul,2004,Turkey,grand-final,Xandee,1 Life,Belgium,13,7,22,False,2088,0.34,True
+449,Istanbul,2004,Turkey,grand-final,Deen,In The Disco,Bosnia & Herzegovina,12,91,9,False,2088,4.36,True
+450,Istanbul,2004,Turkey,grand-final,Ivan Mikulic,You Are The Only One,Croatia,11,50,12,False,2088,2.39,True
+451,Istanbul,2004,Turkey,grand-final,Sanda Ladosi,I Admit,Romania,23,18,18,False,2088,0.86,True
+452,Istanbul,2004,Turkey,grand-final,Athena,For Real,Turkey,22,195,4,False,2088,9.34,True
+453,Istanbul,2004,Turkey,grand-final,Lisa Andreas,Stronger Every Minute,Cyprus,21,170,5,False,2088,8.14,True
+454,Istanbul,2004,Turkey,grand-final,James Fox,Hold On To Our Love,United Kingdom,20,29,16,False,2088,1.39,True
+455,Istanbul,2004,Turkey,grand-final,Blue Cafe,Love Song,Poland,19,27,17,False,2088,1.29,True
+456,Riga,2003,Latvia,final,Karmen,Nanana,Slovenia,26,7,23,False,1508,0.46,True
+457,Riga,2003,Latvia,final,Fame,Give Me Your Love,Sweden,25,107,5,False,1508,7.1,True
+458,Riga,2003,Latvia,final,Nicola,Dont Break My Heart,Romania,24,73,10,False,1508,4.84,True
+459,Riga,2003,Latvia,final,Ruffus,Eighties Coming Back,Estonia,23,14,21,False,1508,0.93,True
+460,Riga,2003,Latvia,final,Urban Trad,Sanomi,Belgium,22,165,2,False,1508,10.94,True
+461,Riga,2003,Latvia,final,F.L.Y.,Hello From Mars,Latvia,21,5,24,False,1508,0.33,True
+462,Riga,2003,Latvia,final,Ich Troje,Keine Grenzen - Zadnych Granic,Poland,20,90,7,False,1508,5.97,True
+463,Riga,2003,Latvia,final,Louisa Baileche,Monts Et Merveilles,France,19,19,18,False,1508,1.26,True
+464,Riga,2003,Latvia,final,Jostein Hasselgård,I'm Not Afraid To Move On,Norway,18,123,4,False,1508,8.16,True
+465,Riga,2003,Latvia,final,Mando,Never Let You Go,Greece,17,25,17,False,1508,1.66,True
+466,Riga,2003,Latvia,final,Olexandr,Hasta La Vista,Ukraine,16,30,14,False,1508,1.99,True
+467,Riga,2003,Latvia,final,Esther Hart,One More Night,Netherlands,14,45,13,False,1508,2.98,True
+468,Riga,2003,Latvia,final,Lior Narkis,Words For Love,Israel,13,17,19,False,1508,1.13,True
+469,Riga,2003,Latvia,final,Beth,Dime,Spain,12,81,8,False,1508,5.37,True
+470,Riga,2003,Latvia,final,t.A.T.u.,"Ne Ver, Ne Boisia",Russia,11,164,3,False,1508,10.88,True
+471,Riga,2003,Latvia,final,Lou,Let's Get Happy,Germany,10,53,11,False,1508,3.51,True
+472,Riga,2003,Latvia,final,Stelios Constantas,Feeling Alive,Cyprus,9,15,20,False,1508,0.99,True
+473,Riga,2003,Latvia,final,Claudia Beni,Vie Nisam Tvoja,Croatia,8,29,15,False,1508,1.92,True
+474,Riga,2003,Latvia,final,Rita Guerra,Deixa-me Sonhar,Portugal,7,13,22,False,1508,0.86,True
+475,Riga,2003,Latvia,final,Mija Martina,Ne Brini,Bosnia & Herzegovina,6,27,16,False,1508,1.79,True
+476,Riga,2003,Latvia,final,Lynn Chirchop,To Dream Again,Malta,5,4,25,False,1508,0.27,True
+477,Riga,2003,Latvia,final,Sertab Erener,Everyway That I Can,Turkey,4,167,1,True,1508,11.07,True
+478,Riga,2003,Latvia,final,Mickey Harte,Weve Got The World,Ireland,3,53,11,False,1508,3.51,True
+479,Riga,2003,Latvia,final,Alf Poier,Weil Der Mensch Zählt,Austria,2,101,6,False,1508,6.7,True
+480,Riga,2003,Latvia,final,Birgitta,Open Your Heart,Iceland,1,81,8,False,1508,5.37,True
+481,Tallinn,2002,Estonia,final,One,Gimme,Cyprus,1,85,6,False,1392,6.11,True
+482,Tallinn,2002,Estonia,final,Jessica Garlick,Come Back,United Kingdom,2,111,3,False,1392,7.97,True
+483,Tallinn,2002,Estonia,final,Manuel Ortega,Say A Word,Austria,3,26,18,False,1392,1.87,True
+484,Tallinn,2002,Estonia,final,Michalis Rakintzis,S.A.G.A.P.O.,Greece,4,27,17,False,1392,1.94,True
+485,Tallinn,2002,Estonia,final,Rosa,Europe's Living A Celebration,Spain,5,81,7,False,1392,5.82,True
+486,Tallinn,2002,Estonia,final,Vesna Pisarovic,Everything I Want,Croatia,6,44,11,False,1392,3.16,True
+487,Tallinn,2002,Estonia,final,Prime minister,Northern Girl,Russia,7,55,10,False,1392,3.95,True
+488,Tallinn,2002,Estonia,final,Sahléne,Runaway,Estonia,8,111,3,False,1392,7.97,True
+489,Tallinn,2002,Estonia,final,Karolina,Od Nas Zavisi,North Macedonia,9,25,19,False,1392,1.8,True
+490,Tallinn,2002,Estonia,final,Sarit Hadad,Light A Candle,Israel,10,37,12,False,1392,2.66,True
+491,Tallinn,2002,Estonia,final,Francine Jordi,Dans Le Jardin De Mon Âme,Switzerland,11,15,22,False,1392,1.08,True
+492,Tallinn,2002,Estonia,final,Afro-dite,Never Let It Go,Sweden,12,72,8,False,1392,5.17,True
+493,Tallinn,2002,Estonia,final,Laura,Addicted To You,Finland,13,24,20,False,1392,1.72,True
+494,Tallinn,2002,Estonia,final,Malene,Tell Me Who You Are,Denmark,14,7,24,False,1392,0.5,True
+495,Tallinn,2002,Estonia,final,Maja,Na Jastuku Za Dvoje,Bosnia & Herzegovina,15,33,13,False,1392,2.37,True
+496,Tallinn,2002,Estonia,final,Sergio & the Ladies,Sister,Belgium,16,33,13,False,1392,2.37,True
+497,Tallinn,2002,Estonia,final,Sandrine François,Il Faut Du Temps,France,17,104,5,False,1392,7.47,True
+498,Tallinn,2002,Estonia,final,Corinna May,I Can't Live Without Music,Germany,18,17,21,False,1392,1.22,True
+499,Tallinn,2002,Estonia,final,Buket Bengisu & Saphire,Leylaklar Soldu Kalbinde,Turkey,19,29,16,False,1392,2.08,True
+500,Tallinn,2002,Estonia,final,Ira Losco,7th Wonder,Malta,20,164,2,False,1392,11.78,True
+501,Tallinn,2002,Estonia,final,Monica Anghel & Marcel Pavel,Tell Me Why,Romania,21,71,9,False,1392,5.1,True
+502,Tallinn,2002,Estonia,final,Sestre,Samo Ljubezen,Slovenia,22,33,13,False,1392,2.37,True
+503,Tallinn,2002,Estonia,final,Marie N,I Wanna,Latvia,23,176,1,True,1392,12.64,True
+504,Tallinn,2002,Estonia,final,Aivaras,Happy You,Lithuania,24,12,23,False,1392,0.86,True
+505,Copenhagen,2001,Denmark,final,Rollo & King,Never Ever Let You Go,Denmark,23,177,2,False,1334,13.27,True
+506,Copenhagen,2001,Denmark,final,Antique,Die For You,Greece,22,147,3,False,1334,11.02,True
+507,Copenhagen,2001,Denmark,final,Fabrizio Faniello,Another Summer Night,Malta,21,48,9,False,1334,3.6,True
+508,Copenhagen,2001,Denmark,final,"Tanel Padar, Dave Benton & 2XL",Everybody,Estonia,20,198,1,True,1334,14.84,True
+509,Copenhagen,2001,Denmark,final,Michelle,Wer Liebe Lebt,Germany,19,66,8,False,1334,4.95,True
+510,Copenhagen,2001,Denmark,final,Piasek,2 Long,Poland,18,11,20,False,1334,0.82,True
+511,Copenhagen,2001,Denmark,final,Nuša Derenda,Energy,Slovenia,17,70,7,False,1334,5.25,True
+512,Copenhagen,2001,Denmark,final,Lindsay D.,No Dream Impossible,United Kingdom,16,28,15,False,1334,2.1,True
+513,Copenhagen,2001,Denmark,final,Sedat Yüce,Sevgiliye Son,Turkey,15,41,11,False,1334,3.07,True
+514,Copenhagen,2001,Denmark,final,Natasha St-Pier,Je N'ai Que Mon âme,France,14,142,4,False,1334,10.64,True
+515,Copenhagen,2001,Denmark,final,David Civera,Dile Que La Quiero,Spain,13,76,6,False,1334,5.7,True
+516,Copenhagen,2001,Denmark,final,Gary O'Shaughnessy,Without Your Love,Ireland,12,6,21,False,1334,0.45,True
+517,Copenhagen,2001,Denmark,final,MTM,Só Sei Ser Feliz Assim,Portugal,11,18,17,False,1334,1.35,True
+518,Copenhagen,2001,Denmark,final,Vanna,Strings Of My Heart,Croatia,10,42,10,False,1334,3.15,True
+519,Copenhagen,2001,Denmark,final,Arnis Mednis,Too Much,Latvia,9,16,18,False,1334,1.2,True
+520,Copenhagen,2001,Denmark,final,Skamp,You Got Style,Lithuania,8,35,13,False,1334,2.62,True
+521,Copenhagen,2001,Denmark,final,Friends,Listen To Your Heartbeat,Sweden,7,100,5,False,1334,7.5,True
+522,Copenhagen,2001,Denmark,final,Mumiy troll,Lady Alpine Blue,Russia,6,37,12,False,1334,2.77,True
+523,Copenhagen,2001,Denmark,final,Tal Sondak,Ein Davar,Israel,5,25,16,False,1334,1.87,True
+524,Copenhagen,2001,Denmark,final,Haldor Lægreid,On My Own,Norway,4,3,22,False,1334,0.22,True
+525,Copenhagen,2001,Denmark,final,Nino,Hano,Bosnia & Herzegovina,3,29,14,False,1334,2.17,True
+526,Copenhagen,2001,Denmark,final,TwoTricky,Angel,Iceland,2,3,22,False,1334,0.22,True
+527,Copenhagen,2001,Denmark,final,Michelle,Out On My Own,Netherlands,1,16,18,False,1334,1.2,True
+528,Stockholm,2000,Sweden,final,The rounder girls,All To You,Austria,24,34,14,False,1392,2.44,True
+529,Stockholm,2000,Sweden,final,Eamonn Toal,Millennium Of Love,Ireland,23,92,6,False,1392,6.61,True
+530,Stockholm,2000,Sweden,final,Pinar Ayhan & S.O.S. band,Yorgunum Anla,Turkey,22,59,10,False,1392,4.24,True
+531,Stockholm,2000,Sweden,final,BrainStorm,My Star,Latvia,21,136,3,False,1392,9.77,True
+532,Stockholm,2000,Sweden,final,Nina Åström,A Little Bit,Finland,20,18,18,False,1392,1.29,True
+533,Stockholm,2000,Sweden,final,XXL,100\% Te Ljubam,North Macedonia,19,29,15,False,1392,2.08,True
+534,Stockholm,2000,Sweden,final,Roger Pontare,When Spirits Are Calling My Name,Sweden,18,88,7,False,1392,6.32,True
+535,Stockholm,2000,Sweden,final,Goran Karan,Kada Zaspu Andeli,Croatia,17,70,9,False,1392,5.03,True
+536,Stockholm,2000,Sweden,final,Jane Bogaert,La Vita Cos'è?,Switzerland,16,14,20,False,1392,1.01,True
+537,Stockholm,2000,Sweden,final,Stefan Raab,Wadde Hadde Dudde Da,Germany,15,96,5,False,1392,6.9,True
+538,Stockholm,2000,Sweden,final,Olsen brothers,Fly On The Wings Of Love,Denmark,14,195,1,True,1392,14.01,True
+539,Stockholm,2000,Sweden,final,Serafín Zubiri,Colgado De Un Sueño,Spain,13,18,18,False,1392,1.29,True
+540,Stockholm,2000,Sweden,final,Einer Augúst Víðisson en Telma Augústdóttir,Tell Me!,Iceland,12,45,12,False,1392,3.23,True
+541,Stockholm,2000,Sweden,final,Voice,Nomiza,Cyprus,11,8,21,False,1392,0.57,True
+542,Stockholm,2000,Sweden,final,Nathalie Sorce,Envie De Vivre,Belgium,10,2,24,False,1392,0.14,True
+543,Stockholm,2000,Sweden,final,Alsou,Solo,Russia,9,155,2,False,1392,11.14,True
+544,Stockholm,2000,Sweden,final,Charmed,My Heart Goes Boom,Norway,8,57,11,False,1392,4.09,True
+545,Stockholm,2000,Sweden,final,Claudette Pace,Desire,Malta,7,73,8,False,1392,5.24,True
+546,Stockholm,2000,Sweden,final,Taxi,The Moon,Romania,6,25,17,False,1392,1.8,True
+547,Stockholm,2000,Sweden,final,Sofia Mestari,On Aura Le Ciel,France,5,5,23,False,1392,0.36,True
+548,Stockholm,2000,Sweden,final,Ines,Once In A Lifetime,Estonia,4,98,4,False,1392,7.04,True
+549,Stockholm,2000,Sweden,final,Nicki French,Don't Play That Song Again,United Kingdom,3,28,16,False,1392,2.01,True
+550,Stockholm,2000,Sweden,final,Linda Wagenmakers,No Goodbyes,Netherlands,2,40,13,False,1392,2.87,True
+551,Stockholm,2000,Sweden,final,Ping Pong,Sa'me'akh,Israel,1,7,22,False,1392,0.5,True
+552,Jerusalem,1999,Israel,final,Aiste Smilgeviciute,Strazdas,Lithuania,1,13,20,False,1334,0.97,True
+553,Jerusalem,1999,Israel,final,Vanessa Chinitor,Like The Wind,Belgium,2,38,12,False,1334,2.85,True
+554,Jerusalem,1999,Israel,final,Lydia,No Quiero Escuchar,Spain,3,1,23,False,1334,0.07,True
+555,Jerusalem,1999,Israel,final,Doris Dragovic,Marija Magdalena,Croatia,4,118,4,False,1334,8.85,True
+556,Jerusalem,1999,Israel,final,Precious,Say It Again,United Kingdom,5,38,12,False,1334,2.85,True
+557,Jerusalem,1999,Israel,final,Darja Svajger,For A Thousand Years,Slovenia,6,50,11,False,1334,3.75,True
+558,Jerusalem,1999,Israel,final,Tuba Önal & Grup Mystik,Dön Artik,Turkey,7,21,16,False,1334,1.57,True
+559,Jerusalem,1999,Israel,final,Stig André Van Eijk,Living My Life Without You,Norway,8,35,14,False,1334,2.62,True
+560,Jerusalem,1999,Israel,final,Trine Jepsen & Michael Teschl,This Time (i Mean It),Denmark,9,71,8,False,1334,5.32,True
+561,Jerusalem,1999,Israel,final,Nayah,Je Veux Donner Ma Voix,France,10,14,19,False,1334,1.05,True
+562,Jerusalem,1999,Israel,final,Marlayne,One Good Reason,Netherlands,11,71,8,False,1334,5.32,True
+563,Jerusalem,1999,Israel,final,Mietek (Mieczyslaw) Szczesniak,Przytul Mnie Mocno,Poland,12,17,18,False,1334,1.27,True
+564,Jerusalem,1999,Israel,final,Selma Björnsdóttir,All Out Of Luck,Iceland,13,146,2,False,1334,10.94,True
+565,Jerusalem,1999,Israel,final,Marlain Angelidou,Tha'nai Erotas,Cyprus,14,2,22,False,1334,0.15,True
+566,Jerusalem,1999,Israel,final,Charlotte Nilsson,Take Me To Your Heaven,Sweden,15,163,1,True,1334,12.22,True
+567,Jerusalem,1999,Israel,final,Rui Bandeira,Como Tudo Começou,Portugal,16,12,21,False,1334,0.9,True
+568,Jerusalem,1999,Israel,final,The Mullan's,When You Need Me,Ireland,17,18,17,False,1334,1.35,True
+569,Jerusalem,1999,Israel,final,Bobbie Singer,Reflection,Austria,18,65,10,False,1334,4.87,True
+570,Jerusalem,1999,Israel,final,Eden,Yom Huledeth,Israel,19,93,5,False,1334,6.97,True
+571,Jerusalem,1999,Israel,final,Times 3,Believe 'n Peace,Malta,20,32,15,False,1334,2.4,True
+572,Jerusalem,1999,Israel,final,Sürpriz,Reise Nach Jerusalem - Kudüs'e Seyahat,Germany,21,140,3,False,1334,10.49,True
+573,Jerusalem,1999,Israel,final,Dino and Beatrice,Putnici,Bosnia & Herzegovina,22,86,7,False,1334,6.45,True
+574,Jerusalem,1999,Israel,final,Evelin Samuel and Camille,Diamond Of Night,Estonia,23,90,6,False,1334,6.75,True
+575,Birmingham,1998,United Kingdom,final,Vlado Janevski,"Ne Zori, Zoro",North Macedonia,25,16,19,False,1450,1.1,True
+576,Birmingham,1998,United Kingdom,final,Tüzmen,Unutamazsin,Turkey,24,25,14,False,1450,1.72,True
+577,Birmingham,1998,United Kingdom,final,Koit Toome,Mere Lapsed,Estonia,23,36,12,False,1450,2.48,True
+578,Birmingham,1998,United Kingdom,final,Lars A. Fredriksen,Alltid Sommer,Norway,22,79,8,False,1450,5.45,True
+579,Birmingham,1998,United Kingdom,final,Edea,Aava,Finland,21,22,15,False,1450,1.52,True
+580,Birmingham,1998,United Kingdom,final,Mélanie Cohl,Dis Oui,Belgium,20,122,6,False,1450,8.41,True
+581,Birmingham,1998,United Kingdom,final,Jill Johnson,Kärleken är,Sweden,19,53,10,False,1450,3.66,True
+582,Birmingham,1998,United Kingdom,final,Edsilia Rombley,Hemel En Aarde,Netherlands,18,150,4,False,1450,10.34,True
+583,Birmingham,1998,United Kingdom,final,Michael Hajiyanni,Genesis,Cyprus,17,37,11,False,1450,2.55,True
+584,Birmingham,1998,United Kingdom,final,Imaani,Where Are You?,United Kingdom,16,166,2,False,1450,11.45,True
+585,Birmingham,1998,United Kingdom,final,Malina Olinescu,Eu Cred,Romania,15,6,22,False,1450,0.41,True
+586,Birmingham,1998,United Kingdom,final,Alma Lusa,Se Eu Te Pudesse Abraçar,Portugal,14,36,12,False,1450,2.48,True
+587,Birmingham,1998,United Kingdom,final,Dawn,Is Always Over Now?,Ireland,13,64,9,False,1450,4.41,True
+588,Birmingham,1998,United Kingdom,final,Vili Resnik,Naj Bogovi Sliijo,Slovenia,12,17,18,False,1450,1.17,True
+589,Birmingham,1998,United Kingdom,final,Charlie,A Holnap Már Ném Lesz Szomorú,Hungary,11,4,23,False,1450,0.28,True
+590,Birmingham,1998,United Kingdom,final,Chiara,The One That I Love,Malta,10,165,3,False,1450,11.38,True
+591,Birmingham,1998,United Kingdom,final,Guildo Horn,Guildo Hat Euch Lieb,Germany,9,86,7,False,1450,5.93,True
+592,Birmingham,1998,United Kingdom,final,Dana International,Diva,Israel,8,172,1,True,1450,11.86,True
+593,Birmingham,1998,United Kingdom,final,Sixteen,To Takie Proste,Poland,7,19,17,False,1450,1.31,True
+594,Birmingham,1998,United Kingdom,final,Katarína Hasprová,Modlitba,Slovakia,6,8,21,False,1450,0.55,True
+595,Birmingham,1998,United Kingdom,final,Mikel Herzog,¿Qué Voy A Hacer Sin Ti?,Spain,4,21,16,False,1450,1.45,True
+596,Birmingham,1998,United Kingdom,final,Marie-Line,Où Aller,France,3,3,24,False,1450,0.21,True
+597,Birmingham,1998,United Kingdom,final,Dionysia and Thalassa group,Mia Krifi Evaisthissia,Greece,2,12,20,False,1450,0.83,True
+598,Birmingham,1998,United Kingdom,final,Danijela,Neka Mi Ne Svane,Croatia,1,131,5,False,1450,9.03,True
+599,Dublin,1997,Ireland,final,Paul Oscar,Minn Hinsti Dans,Iceland,25,18,20,False,1450,1.24,True
+600,Dublin,1997,Ireland,final,Katrina and The Waves,Love Shine A Light,United Kingdom,24,227,1,True,1450,15.66,True
+601,Dublin,1997,Ireland,final,ENI,Probudi Me,Croatia,23,24,17,False,1450,1.66,True
+602,Dublin,1997,Ireland,final,Fanny,Sentiments Songes,France,22,95,7,False,1450,6.55,True
+603,Dublin,1997,Ireland,final,Kølig Kaj,Stemmen I Mit Liv,Denmark,21,25,16,False,1450,1.72,True
+604,Dublin,1997,Ireland,final,Alla Pugachova,Primadonna,Russia,20,33,15,False,1450,2.28,True
+605,Dublin,1997,Ireland,final,VIP,"Miert Kell, Hogy Elmenj?",Hungary,19,39,12,False,1450,2.69,True
+606,Dublin,1997,Ireland,final,Debbie Scerri,Let Me Fly,Malta,18,66,9,False,1450,4.55,True
+607,Dublin,1997,Ireland,final,Marianna Zorba,Horepse,Greece,17,39,12,False,1450,2.69,True
+608,Dublin,1997,Ireland,final,Blond,Bara Hon älskar Mig,Sweden,16,36,14,False,1450,2.48,True
+609,Dublin,1997,Ireland,final,Alma Cardzic,Goodbye,Bosnia & Herzegovina,14,22,18,False,1450,1.52,True
+610,Dublin,1997,Ireland,final,Maarja-Liis Ilus,Keelatud Maa,Estonia,13,82,8,False,1450,5.66,True
+611,Dublin,1997,Ireland,final,Anna Maria Jopek,Ale Jestem,Poland,12,54,11,False,1450,3.72,True
+612,Dublin,1997,Ireland,final,Bianca Shomburg,Zeit,Germany,11,22,18,False,1450,1.52,True
+613,Dublin,1997,Ireland,final,Marcos Llunas,Sin Rencor,Spain,10,96,6,False,1450,6.62,True
+614,Dublin,1997,Ireland,final,Jalisse,Fiumi Di Parole,Italy,9,114,4,False,1450,7.86,True
+615,Dublin,1997,Ireland,final,Mrs. Einstein,Niemand Heeft Nog Tijd,Netherlands,8,5,22,False,1450,0.34,True
+616,Dublin,1997,Ireland,final,Barbara Berta,Dentro Di Me,Switzerland,7,5,22,False,1450,0.34,True
+617,Dublin,1997,Ireland,final,Tanja Ribic,Zbudi Se,Slovenia,6,60,10,False,1450,4.14,True
+618,Dublin,1997,Ireland,final,Marc Roberts,Mysterious Woman,Ireland,5,157,2,False,1450,10.83,True
+619,Dublin,1997,Ireland,final,Bettina Soriat,One Step,Austria,4,12,21,False,1450,0.83,True
+620,Dublin,1997,Ireland,final,Sebnem Paker and Group Etnic,Dinle,Turkey,2,121,3,False,1450,8.34,True
+621,Dublin,1997,Ireland,final,Chara and Andreas Konstantinou,Mana Mou,Cyprus,1,98,5,False,1450,6.76,True
+622,Oslo,1996,Norway,final,One More Time,Den Vilda,Sweden,23,100,3,False,1334,7.5,True
+623,Oslo,1996,Norway,final,Marcel Palonder,Kým Nás Má,Slovakia,22,19,18,False,1334,1.42,True
+624,Oslo,1996,Norway,final,Amila Glamocak,Za Nau Ljubav,Bosnia & Herzegovina,21,13,22,False,1334,0.97,True
+625,Oslo,1996,Norway,final,Kasia Kowalska,Chce Znac Swój Grzech,Poland,20,31,15,False,1334,2.32,True
+626,Oslo,1996,Norway,final,Anna Mjöll,Sjúbídú,Iceland,19,51,13,False,1334,3.82,True
+627,Oslo,1996,Norway,final,Jasmine,Niin Kaunis On Taivas,Finland,18,9,23,False,1334,0.67,True
+628,Oslo,1996,Norway,final,Eimear Quinn,The Voice,Ireland,17,162,1,True,1334,12.14,True
+629,Oslo,1996,Norway,final,Lisa del Bo,Liefde Is Een Kaartspel,Belgium,16,22,16,False,1334,1.65,True
+630,Oslo,1996,Norway,final,Maxine and Franklin Brown,De Eerste Keer,Netherlands,15,78,7,False,1334,5.85,True
+631,Oslo,1996,Norway,final,Regina,Dan najlepših sanj,Slovenia,14,16,21,False,1334,1.2,True
+632,Oslo,1996,Norway,final,Dan Ar Braz et l'Héritage des Celtes,Diwanit Bugale,France,13,18,19,False,1334,1.35,True
+633,Oslo,1996,Norway,final,Elisabeth Andreasson,I Evighet,Norway,12,114,2,False,1334,8.55,True
+634,Oslo,1996,Norway,final,Ivo Linna and Maarja-Liis Ilus,Kaelakee Hääl,Estonia,11,94,5,False,1334,7.05,True
+635,Oslo,1996,Norway,final,Marianna Efstratiou,Emis Forame To Himona Anixiatika,Greece,10,36,14,False,1334,2.7,True
+636,Oslo,1996,Norway,final,Cathy Leander,Mon Coeur L'aime,Switzerland,9,22,16,False,1334,1.65,True
+637,Oslo,1996,Norway,final,George Nußbaumer,Weil's Dr Guat Got,Austria,8,68,10,False,1334,5.1,True
+638,Oslo,1996,Norway,final,Maja Blagdan,Sveta Ljubav,Croatia,7,98,4,False,1334,7.35,True
+639,Oslo,1996,Norway,final,Miriam Christine,In A Woman's Heart,Malta,6,68,10,False,1334,5.1,True
+640,Oslo,1996,Norway,final,Constantinos,Móno Gia Más,Cyprus,5,72,9,False,1334,5.4,True
+641,Oslo,1996,Norway,final,Lúcia Moniz,O Meu Coração Não Tem Cor,Portugal,4,92,6,False,1334,6.9,True
+642,Oslo,1996,Norway,final,Antonio Carbonell,"¡Ay, Qué Deseo!",Spain,3,17,20,False,1334,1.27,True
+643,Oslo,1996,Norway,final,Gina G,Ooh...Aah...Just A Little Bit,United Kingdom,2,77,8,False,1334,5.77,True
+644,Oslo,1996,Norway,final,Şebnem Paker,Besinçi Mevsim,Turkey,1,57,12,False,1334,4.27,True
+645,Dublin,1995,Ireland,final,Elina Constantopoulou,Pia Prossefchi,Greece,23,68,12,False,1334,5.1,True
+646,Dublin,1995,Ireland,final,Mike Spiteri,Keep Me In Mind,Malta,22,76,10,False,1334,5.7,True
+647,Dublin,1995,Ireland,final,Liora,Amen,Israel,21,81,8,False,1334,6.07,True
+648,Dublin,1995,Ireland,final,Darja Svajger,Prisluhni Mi,Slovenia,20,84,7,False,1334,6.3,True
+649,Dublin,1995,Ireland,final,Aud Wilken,Fra Mols Til Skagen,Denmark,19,92,5,False,1334,6.9,True
+650,Dublin,1995,Ireland,final,Jan Johansen,Se På Mej,Sweden,18,100,3,False,1334,7.5,True
+651,Dublin,1995,Ireland,final,Alexandros Panayi,Sti Fotia,Cyprus,17,79,9,False,1334,5.92,True
+652,Dublin,1995,Ireland,final,Tó Cruz,Baunilha E Chocolate,Portugal,16,5,21,False,1334,0.37,True
+653,Dublin,1995,Ireland,final,Love City Groove,Love City Groove,United Kingdom,15,76,10,False,1334,5.7,True
+654,Dublin,1995,Ireland,final,Frédéric Etherlinck,La Voix Est Libre,Belgium,14,8,20,False,1334,0.6,True
+655,Dublin,1995,Ireland,final,Czaba Szigeti,Ùj Nèv Egy Règi Hàz Fàlan,Hungary,13,3,22,False,1334,0.22,True
+656,Dublin,1995,Ireland,final,Nathalie Santamaria,Il Me Donne Rendez-vous,France,12,94,4,False,1334,7.05,True
+657,Dublin,1995,Ireland,final,Magazin and Lidija,Nostalgija,Croatia,11,91,6,False,1334,6.82,True
+658,Dublin,1995,Ireland,final,Arzu Ece,Sev!,Turkey,10,21,16,False,1334,1.57,True
+659,Dublin,1995,Ireland,final,Anabel Conde,Vuelve Conmigo,Spain,9,119,2,False,1334,8.92,True
+660,Dublin,1995,Ireland,final,Stella Jones,Die Welt Dreht Sich Verkehrt,Austria,8,67,13,False,1334,5.02,True
+661,Dublin,1995,Ireland,final,Bó Halldórsson,Núna,Iceland,7,31,15,False,1334,2.32,True
+662,Dublin,1995,Ireland,final,Philipp Kirkorov,Kolybelnaya Dlya Vulkana,Russia,6,17,17,False,1334,1.27,True
+663,Dublin,1995,Ireland,final,Secret Garden,Nocturne,Norway,5,148,1,True,1334,11.09,True
+664,Dublin,1995,Ireland,final,Davor Popovic,Dvadeset I Prvi Vijek,Bosnia & Herzegovina,4,14,19,False,1334,1.05,True
+665,Dublin,1995,Ireland,final,Stone and Stone,Verliebt In Dich,Germany,3,1,23,False,1334,0.07,True
+666,Dublin,1995,Ireland,final,Eddie Friel,Dreamin',Ireland,2,44,14,False,1334,3.3,True
+667,Dublin,1995,Ireland,final,Justyna,Sama,Poland,1,15,18,False,1334,1.12,True
+668,Dublin,1994,Ireland,final,Nina Morato,Je Suis Un Vrai Garçon,France,25,74,7,False,1450,5.1,True
+669,Dublin,1994,Ireland,final,Edyta Górniak,To Nie Ja!,Poland,24,166,2,False,1450,11.45,True
+670,Dublin,1994,Ireland,final,Youddiph,Vechni Stranik,Russia,23,70,9,False,1450,4.83,True
+671,Dublin,1994,Ireland,final,Friderika Bayer,Kinek Mondjam El Vétkeimet,Hungary,22,122,4,False,1450,8.41,True
+672,Dublin,1994,Ireland,final,Alejandro Abad,Ella No Es Ella,Spain,21,17,18,False,1450,1.17,True
+673,Dublin,1994,Ireland,final,Petra Frey,Für Den Frieden Der Welt,Austria,20,19,17,False,1450,1.31,True
+674,Dublin,1994,Ireland,final,Costas Bigalis and  the Sea Lovers,To Trehantiri (diri Diri),Greece,19,44,14,False,1450,3.03,True
+675,Dublin,1994,Ireland,final,Alma and Dejan,Ostani Kraj Mene,Bosnia & Herzegovina,18,39,15,False,1450,2.69,True
+676,Dublin,1994,Ireland,final,Elisabeth Andreasson and Jan Werner Danielsen,Duett,Norway,17,76,6,False,1450,5.24,True
+677,Dublin,1994,Ireland,final,Martin Durinda and Tublatanka,Nekovecná Piesen,Slovakia,15,15,19,False,1450,1.03,True
+678,Dublin,1994,Ireland,final,MeKaDo,Wir Geben 'ne Party,Germany,14,128,3,False,1450,8.83,True
+679,Dublin,1994,Ireland,final,Willeke Alberti,Waar Is De Zon,Netherlands,13,4,23,False,1450,0.28,True
+680,Dublin,1994,Ireland,final,Moira Stafrace and Christopher Scicluna,More Than Love,Malta,12,97,5,False,1450,6.69,True
+681,Dublin,1994,Ireland,final,Dan Bittman,Dincolo De Nori,Romania,11,14,21,False,1450,0.97,True
+682,Dublin,1994,Ireland,final,Silvi Vrait,Nagu Merelaine,Estonia,10,2,24,False,1450,0.14,True
+683,Dublin,1994,Ireland,final,Duilio,Sto Pregando,Switzerland,9,15,19,False,1450,1.03,True
+684,Dublin,1994,Ireland,final,Sara Tavares,Chamar A Música,Portugal,8,73,8,False,1450,5.03,True
+685,Dublin,1994,Ireland,final,Tony Cetinski,Nek'ti Bude Ljubav Sva,Croatia,7,27,16,False,1450,1.86,True
+686,Dublin,1994,Ireland,final,Frances Ruffelle,We Will Be Free (lonely Symphony),United Kingdom,6,63,10,False,1450,4.34,True
+687,Dublin,1994,Ireland,final,Sigga,Nætur,Iceland,5,49,12,False,1450,3.38,True
+688,Dublin,1994,Ireland,final,Evridiki,Ime Anthropos Ke Ego,Cyprus,4,51,11,False,1450,3.52,True
+689,Dublin,1994,Ireland,final,Paul Harrington and Charlie McGettigan,Rock 'n' Roll Kids,Ireland,3,226,1,True,1450,15.59,True
+690,Dublin,1994,Ireland,final,CatCat,Bye Bye Baby,Finland,2,11,22,False,1450,0.76,True
+691,Dublin,1994,Ireland,final,Marie Bergman and Roger Pontare,Stjärnorna,Sweden,1,48,13,False,1450,3.31,True
+692,Millstreet,1993,Ireland,final,Silje Vige,Alle Mine Tankar,Norway,25,120,5,False,1450,8.28,True
+693,Millstreet,1993,Ireland,final,Lakahat Shiru,Shiru,Israel,24,4,24,False,1450,0.28,True
+694,Millstreet,1993,Ireland,final,Kyriakos Zymboulakis and Demos Van Beke,Mi Stamatas,Cyprus,23,17,19,False,1450,1.17,True
+695,Millstreet,1993,Ireland,final,Eva Santamaria,Hombres,Spain,22,58,11,False,1450,4.0,True
+696,Millstreet,1993,Ireland,final,Put,Don't Ever Cry,Croatia,21,31,15,False,1450,2.14,True
+697,Millstreet,1993,Ireland,final,Ruth Jacott,Vrede,Netherlands,20,92,6,False,1450,6.34,True
+698,Millstreet,1993,Ireland,final,Sonia,Better The Devil You Know,United Kingdom,19,164,2,False,1450,11.31,True
+699,Millstreet,1993,Ireland,final,Fazla,Sva Bol Svijeta,Bosnia & Herzegovina,18,27,16,False,1450,1.86,True
+700,Millstreet,1993,Ireland,final,Katri-Helena,Tule Luo,Finland,17,20,17,False,1450,1.38,True
+701,Millstreet,1993,Ireland,final,1X Band,Tih Dezeven Dan,Slovenia,16,9,22,False,1450,0.62,True
+702,Millstreet,1993,Ireland,final,Modern Times,Donne-moi Une Chance,Luxembourg,15,11,20,False,1450,0.76,True
+703,Millstreet,1993,Ireland,final,Niamh Kavanagh,In Your Eyes,Ireland,14,187,1,True,1450,12.9,True
+704,Millstreet,1993,Ireland,final,Arvingarna,Eloïse,Sweden,13,89,7,False,1450,6.14,True
+705,Millstreet,1993,Ireland,final,Patrick Fiori,Mama Corsica,France,12,121,4,False,1450,8.34,True
+706,Millstreet,1993,Ireland,final,Anabela,A Cidade Até Ser Dia,Portugal,11,60,10,False,1450,4.14,True
+707,Millstreet,1993,Ireland,final,Tony Wegas,Maria Magdalena,Austria,10,32,14,False,1450,2.21,True
+708,Millstreet,1993,Ireland,final,Inga,þá Veistu Svarið,Iceland,9,42,13,False,1450,2.9,True
+709,Millstreet,1993,Ireland,final,William Mangion,This Time,Malta,8,69,8,False,1450,4.76,True
+710,Millstreet,1993,Ireland,final,Enrico Ruggeri,Sole D'europa,Italy,1,45,12,False,1450,3.1,True
+711,Millstreet,1993,Ireland,final,"Burak Aydos, Öztürk Baybora & Serter",Esmer Yarim,Turkey,2,10,21,False,1450,0.69,True
+712,Millstreet,1993,Ireland,final,Münchener Freiheit,Viel Zu Weit,Germany,3,18,18,False,1450,1.24,True
+713,Millstreet,1993,Ireland,final,Annie Cotton,"Moi, Tout Simplement",Switzerland,4,148,3,False,1450,10.21,True
+714,Millstreet,1993,Ireland,final,Tommy Seebach Band,Under Stjernerne På Himlen,Denmark,5,9,22,False,1450,0.62,True
+715,Millstreet,1993,Ireland,final,Kaiti Garbi,"Ellada, Hora Tou Fotos",Greece,6,64,9,False,1450,4.41,True
+716,Millstreet,1993,Ireland,final,Barbara,Iemand Als Jij,Belgium,7,3,25,False,1450,0.21,True
+717,Malmö,1992,Sweden,final,Humphrey Campbell,Wijs Me De Weg,Netherlands,23,67,9,False,1334,5.02,True
+718,Malmö,1992,Sweden,final,Serafin,Todo Esto Es La Música,Spain,1,37,14,False,1334,2.77,True
+719,Malmö,1992,Sweden,final,Morgane,Nous On Veut Des Violons,Belgium,2,11,20,False,1334,0.82,True
+720,Malmö,1992,Sweden,final,Dafna,Ze Rak Sport,Israel,3,85,6,False,1334,6.37,True
+721,Malmö,1992,Sweden,final,Aylin Vatankos,Yaz Bitti,Turkey,4,17,19,False,1334,1.27,True
+722,Malmö,1992,Sweden,final,Cleopatra,Olou Tou Kosmou I Elpida,Greece,5,94,5,False,1334,7.05,True
+723,Malmö,1992,Sweden,final,Kali,Monté La Riviè,France,6,73,8,False,1334,5.47,True
+724,Malmö,1992,Sweden,final,Christer Björkman,I Morgon är En Annan Dag,Sweden,7,9,22,False,1334,0.67,True
+725,Malmö,1992,Sweden,final,Diná,Amor D'água Fresca,Portugal,8,26,17,False,1334,1.95,True
+726,Malmö,1992,Sweden,final,Evridiki,Teriazoume,Cyprus,9,57,11,False,1334,4.27,True
+727,Malmö,1992,Sweden,final,Mary Spiteri,Little Child,Malta,10,123,3,False,1334,9.22,True
+728,Malmö,1992,Sweden,final,Heart 2 Heart,Nei Eða Já,Iceland,11,80,7,False,1334,6.0,True
+729,Malmö,1992,Sweden,final,Pave,Yamma Yamma,Finland,12,4,23,False,1334,0.3,True
+730,Malmö,1992,Sweden,final,Daisy Auvray,Mister Music Man,Switzerland,13,32,15,False,1334,2.4,True
+731,Malmö,1992,Sweden,final,Marion Welter and Kontinent,Sou Fräi,Luxembourg,14,10,21,False,1334,0.75,True
+732,Malmö,1992,Sweden,final,Tony Wegas,Zusammen Geh'n,Austria,15,63,10,False,1334,4.72,True
+733,Malmö,1992,Sweden,final,Michael Ball,One Step Out Of Time,United Kingdom,16,139,2,False,1334,10.42,True
+734,Malmö,1992,Sweden,final,Linda Martin,Why Me,Ireland,17,155,1,True,1334,11.62,True
+735,Malmö,1992,Sweden,final,Lotte Nilsson and Kenny Lübcke,Ålt Det Som Ingen Ser,Denmark,18,47,12,False,1334,3.52,True
+736,Malmö,1992,Sweden,final,Mia Martini,Rapsodia,Italy,19,111,4,False,1334,8.32,True
+737,Malmö,1992,Sweden,final,Extra Nena,Ljubim Te Pesmama,Yugoslavia,20,44,13,False,1334,3.3,True
+738,Malmö,1992,Sweden,final,Merethe Trøan,Visjoner,Norway,21,23,18,False,1334,1.72,True
+739,Malmö,1992,Sweden,final,Wind,Träume Sind Für Alle Da,Germany,22,27,16,False,1334,2.02,True
+740,Rome,1991,Italy,final,Peppino di Capri,Comme E' Ddoce 'o Mare,Italy,22,89,7,False,1276,6.97,True
+741,Rome,1991,Italy,final,Elena Patroclou,S.o.s.,Cyprus,21,60,9,False,1276,4.7,True
+742,Rome,1991,Italy,final,Samantha Janus,A Message To Your Heart,United Kingdom,20,47,10,False,1276,3.68,True
+743,Rome,1991,Italy,final,Sergio Dalma,Bailar Pegados,Spain,19,119,4,False,1276,9.33,True
+744,Rome,1991,Italy,final,Clouseau,Geef Het Op,Belgium,18,23,16,False,1276,1.8,True
+745,Rome,1991,Italy,final,Atlantis 2000,Dieser Traum Darf Niemals Sterben,Germany,17,10,18,False,1276,0.78,True
+746,Rome,1991,Italy,final,Kaija,Hullu Yö,Finland,16,6,20,False,1276,0.47,True
+747,Rome,1991,Italy,final,Duo Datz,Kan,Israel,15,139,3,False,1276,10.89,True
+748,Rome,1991,Italy,final,Just 4 Fun,Mrs. Thompson,Norway,14,14,17,False,1276,1.1,True
+749,Rome,1991,Italy,final,Anders Frandsen,Lige Der Hvor Hjertet Slår,Denmark,13,8,19,False,1276,0.63,True
+750,Rome,1991,Italy,final,Dulce,Lusitana Paixão,Portugal,12,62,8,False,1276,4.86,True
+751,Rome,1991,Italy,final,Kim Jackson,Could It Be That I'm In Love,Ireland,11,47,10,False,1276,3.68,True
+752,Rome,1991,Italy,final,"Izel Çeliköz, Rayhan Soykarçi and Can Ugurluér",Iki Dakika,Turkey,10,44,12,False,1276,3.45,True
+753,Rome,1991,Italy,final,Amina,C'est Le Dernier Qui A Parlé Qui A Raison,France,9,146,2,False,1276,11.44,True
+754,Rome,1991,Italy,final,Carola,Fångad Av En Stormvind,Sweden,8,146,1,True,1276,11.44,True
+755,Rome,1991,Italy,final,Sarah Bray,Un Baiser Volé,Luxembourg,7,29,14,False,1276,2.27,True
+756,Rome,1991,Italy,final,Sandra Simò,Canzone Per Te,Switzerland,5,118,5,False,1276,9.25,True
+757,Rome,1991,Italy,final,Sofia Vossou,I Anixi,Greece,4,36,13,False,1276,2.82,True
+758,Rome,1991,Italy,final,Paul Giordimaina and Georgina,Could It Be,Malta,3,106,6,False,1276,8.31,True
+759,Rome,1991,Italy,final,Stefán and Eyfi,Nina,Iceland,2,26,15,False,1276,2.04,True
+760,Rome,1991,Italy,final,Baby Doll,Brazil,Yugoslavia,1,1,21,False,1276,0.08,True
+761,Zagreb,1990,Yugoslavia,final,Beat,Fri?,Finland,22,8,21,False,1276,0.63,True
+762,Zagreb,1990,Yugoslavia,final,Haris Anastasiou,Milas Poli,Cyprus,21,36,14,False,1276,2.82,True
+763,Zagreb,1990,Yugoslavia,final,Simone,Keine Mauern Mehr,Austria,20,58,10,False,1276,4.55,True
+764,Zagreb,1990,Yugoslavia,final,Toto Cutugno,Insieme: 1992,Italy,19,149,1,True,1276,11.68,True
+765,Zagreb,1990,Yugoslavia,final,Edin-Ådahl,Som En Vind,Sweden,18,24,16,False,1276,1.88,True
+766,Zagreb,1990,Yugoslavia,final,Liam Reilly,Somewhere In Europe,Ireland,17,132,2,False,1276,10.34,True
+767,Zagreb,1990,Yugoslavia,final,Nucha,Há Sempre Alguém,Portugal,16,9,20,False,1276,0.71,True
+768,Zagreb,1990,Yugoslavia,final,Tajci,Hajde Da Ludujemo,Yugoslavia,15,81,7,False,1276,6.35,True
+769,Zagreb,1990,Yugoslavia,final,Joelle Ursull,White And Black Blues,France,14,132,2,False,1276,10.34,True
+770,Zagreb,1990,Yugoslavia,final,Chris Kempers and Daniel Kovac,Frei Zu Leben,Germany,13,60,9,False,1276,4.7,True
+771,Zagreb,1990,Yugoslavia,final,Egon Egemann,Musik Klingt In Die Welt Hinaus,Switzerland,12,51,11,False,1276,4.0,True
+772,Zagreb,1990,Yugoslavia,final,Lonnie Devantier,Hallo Hallo,Denmark,11,64,8,False,1276,5.02,True
+773,Zagreb,1990,Yugoslavia,final,Rita,Shara Barechovot,Israel,10,16,18,False,1276,1.25,True
+774,Zagreb,1990,Yugoslavia,final,Ketil Stokkan,Brandenburger Tor,Norway,9,8,21,False,1276,0.63,True
+775,Zagreb,1990,Yugoslavia,final,Stjórnin,Eitt Lag Enn,Iceland,8,124,4,False,1276,9.72,True
+776,Zagreb,1990,Yugoslavia,final,Emma,Give A Little Love Back To The World,United Kingdom,7,87,6,False,1276,6.82,True
+777,Zagreb,1990,Yugoslavia,final,Céline Carzo,Quand Je Te Rêve,Luxembourg,6,38,13,False,1276,2.98,True
+778,Zagreb,1990,Yugoslavia,final,Maywood,Ik Wil Alles Met Je Delen,Netherlands,5,25,15,False,1276,1.96,True
+779,Zagreb,1990,Yugoslavia,final,Kayahan,Gözlerinin Hapsindeyim,Turkey,4,21,17,False,1276,1.65,True
+780,Zagreb,1990,Yugoslavia,final,Philippe Lafontaine,Macédomienne,Belgium,3,46,12,False,1276,3.61,True
+781,Zagreb,1990,Yugoslavia,final,Christos Callow and Wave,Horis Skopo,Greece,2,11,19,False,1276,0.86,True
+782,Zagreb,1990,Yugoslavia,final,Azúcar Moreno,Bandido,Spain,1,96,5,False,1276,7.52,True
+783,Lausanne,1989,Switzerland,final,Riva,Rock Me,Yugoslavia,22,137,1,True,1276,10.74,True
+784,Lausanne,1989,Switzerland,final,Nino de Angelo,Flieger,Germany,21,46,14,False,1276,3.61,True
+785,Lausanne,1989,Switzerland,final,Marianna,To Diko Sou Asteri,Greece,19,56,9,False,1276,4.39,True
+786,Lausanne,1989,Switzerland,final,Furbaz,Viver Senza Tei,Switzerland,18,47,13,False,1276,3.68,True
+787,Lausanne,1989,Switzerland,final,Fanny Polymeri and Yiannis Savvidakis,Apopse As Vrethoume,Cyprus,17,51,11,False,1276,4.0,True
+788,Lausanne,1989,Switzerland,final,Nina,Nacida Para Amar,Spain,16,88,6,False,1276,6.9,True
+789,Lausanne,1989,Switzerland,final,Nathalie Pâque,J'ai Volé La Vie,France,15,60,8,False,1276,4.7,True
+790,Lausanne,1989,Switzerland,final,Anneli Saaristo,La Dolce Vita,Finland,14,76,7,False,1276,5.96,True
+791,Lausanne,1989,Switzerland,final,Thomas Forstner,Nur Ein Lied,Austria,13,97,5,False,1276,7.6,True
+792,Lausanne,1989,Switzerland,final,Birthe Kjær,Vi Maler Byen Rød,Denmark,12,111,3,False,1276,8.7,True
+793,Lausanne,1989,Switzerland,final,Park Café,Monsieur,Luxembourg,11,8,20,False,1276,0.63,True
+794,Lausanne,1989,Switzerland,final,Tommy Nilsson,En Dag,Sweden,10,110,4,False,1276,8.62,True
+795,Lausanne,1989,Switzerland,final,Da Vinci,Conquistador,Portugal,9,39,16,False,1276,3.06,True
+796,Lausanne,1989,Switzerland,final,Britt Synnøve Johansen,Venners Nærhet,Norway,8,30,17,False,1276,2.35,True
+797,Lausanne,1989,Switzerland,final,Live Report,Why Do I Always Get It Wrong,United Kingdom,7,130,2,False,1276,10.19,True
+798,Lausanne,1989,Switzerland,final,Ingeborg,Door De Wind,Belgium,6,13,19,False,1276,1.02,True
+799,Lausanne,1989,Switzerland,final,Pan,Bana Bana,Turkey,5,5,21,False,1276,0.39,True
+800,Lausanne,1989,Switzerland,final,Justine Pelmelay,Blijf Zoals Je Bent,Netherlands,4,45,15,False,1276,3.53,True
+801,Lausanne,1989,Switzerland,final,Kiev Connolly and the Missing Passengers,The Real Me,Ireland,3,21,18,False,1276,1.65,True
+802,Lausanne,1989,Switzerland,final,Gili ve Galit,Derech Ha'melech,Israel,2,50,12,False,1276,3.92,True
+803,Lausanne,1989,Switzerland,final,Anna Oxa and Fausto Leali,Avrei Voluto,Italy,1,56,9,False,1276,4.39,True
+804,Dublin,1988,Ireland,final,Srebrna Krila,Mangup,Yugoslavia,21,87,6,False,1218,7.14,True
+805,Dublin,1988,Ireland,final,Dora,Voltarei,Portugal,20,5,18,False,1218,0.41,True
+806,Dublin,1988,Ireland,final,Gérard Lenorman,Chanteur De Charme,France,19,64,10,False,1218,5.25,True
+807,Dublin,1988,Ireland,final,Luca Barbarossa,Ti Scrivo,Italy,18,52,12,False,1218,4.27,True
+808,Dublin,1988,Ireland,final,Lara Fabian,Croire,Luxembourg,17,90,4,False,1218,7.39,True
+809,Dublin,1988,Ireland,final,Reynaert,Laissez Briller Le Soleil,Belgium,16,5,18,False,1218,0.41,True
+810,Dublin,1988,Ireland,final,Karoline Krüger,For Vår Jord,Norway,15,88,5,False,1218,7.22,True
+811,Dublin,1988,Ireland,final,Aphroditi Fryda,Kloun,Greece,14,10,17,False,1218,0.82,True
+812,Dublin,1988,Ireland,final,Hot Eyes,Ka' Du Se Hva' Jeg Sa',Denmark,13,92,3,False,1218,7.55,True
+813,Dublin,1988,Ireland,final,Maxi and Chris Garden,Lied Für Einen Freund,Germany,11,48,14,False,1218,3.94,True
+814,Dublin,1988,Ireland,final,Jump the Gun,Take Him Home,Ireland,10,79,8,False,1218,6.49,True
+815,Dublin,1988,Ireland,final,Céline Dion,Ne Partez Pas Sans Moi,Switzerland,9,137,1,True,1218,11.25,True
+816,Dublin,1988,Ireland,final,Yardena Arazi,Ben Adam,Israel,8,85,7,False,1218,6.98,True
+817,Dublin,1988,Ireland,final,Gerard Joling,Shangri-la,Netherlands,7,70,9,False,1218,5.75,True
+818,Dublin,1988,Ireland,final,La Década,La Chica Que Yo Quiero (made In Spain),Spain,6,58,11,False,1218,4.76,True
+819,Dublin,1988,Ireland,final,MFÖ,Sufi (hey Ya Hey),Turkey,5,37,15,False,1218,3.04,True
+820,Dublin,1988,Ireland,final,Scott Fitzgerald,Go,United Kingdom,4,136,2,False,1218,11.17,True
+821,Dublin,1988,Ireland,final,Boulevard,Nauravat Silmät Muistetaan,Finland,3,3,20,False,1218,0.25,True
+822,Dublin,1988,Ireland,final,Tommy Körberg,Stad I Ljus,Sweden,2,52,12,False,1218,4.27,True
+823,Dublin,1988,Ireland,final,Beathoven,Sókrates,Iceland,1,20,16,False,1218,1.64,True
+824,Brussels,1987,Belgium,final,Carole Rich,Moitié Moitié,Switzerland,22,26,17,False,1276,2.04,True
+825,Brussels,1987,Belgium,final,Novi Fosili,Ja Sam Za Ples,Yugoslavia,21,92,4,False,1276,7.21,True
+826,Brussels,1987,Belgium,final,Johnny Logan,Hold Me Now,Ireland,20,172,1,True,1276,13.48,True
+827,Brussels,1987,Belgium,final,Anne-Catherine Herdorf and Bandjo,En Lille Melodi,Denmark,19,83,5,False,1276,6.5,True
+828,Brussels,1987,Belgium,final,Vicky Rosti,Sata Salamaa,Finland,18,32,15,False,1276,2.51,True
+829,Brussels,1987,Belgium,final,Alexia,Aspro Mavro,Cyprus,17,80,7,False,1276,6.27,True
+830,Brussels,1987,Belgium,final,Wind,Laß Die Sonne In Dein Herz,Germany,16,141,2,False,1276,11.05,True
+831,Brussels,1987,Belgium,final,Christine Minier,Les Mots D'amour N'ont Pas De Dimanche,France,15,44,14,False,1276,3.45,True
+832,Brussels,1987,Belgium,final,Rikki,Only The Light,United Kingdom,14,47,13,False,1276,3.68,True
+833,Brussels,1987,Belgium,final,Plastic Bertrand,Amour Amour,Luxembourg,13,4,21,False,1276,0.31,True
+834,Brussels,1987,Belgium,final,Marcha,Rechtop In De Wind,Netherlands,12,83,5,False,1276,6.5,True
+835,Brussels,1987,Belgium,final,Bang,Stop!,Greece,11,64,10,False,1276,5.02,True
+836,Brussels,1987,Belgium,final,Patricia Kraus,No Estás Solo,Spain,9,10,19,False,1276,0.78,True
+837,Brussels,1987,Belgium,final,Nevada,Neste Barco à Vela,Portugal,8,15,18,False,1276,1.18,True
+838,Brussels,1987,Belgium,final,Umberto Tozzi and Raf,Gente Di Mare,Italy,7,103,3,False,1276,8.07,True
+839,Brussels,1987,Belgium,final,Lotta Engberg,Boogaloo,Sweden,6,50,12,False,1276,3.92,True
+840,Brussels,1987,Belgium,final,Liliane Saint-Pierre,Soldiers Of Love,Belgium,5,56,11,False,1276,4.39,True
+841,Brussels,1987,Belgium,final,Halla Margarét,Hægt Og Hljótt,Iceland,4,28,16,False,1276,2.19,True
+842,Brussels,1987,Belgium,final,Gary Lux,Nur Noch Gefühl,Austria,3,8,20,False,1276,0.63,True
+843,Brussels,1987,Belgium,final,Datner and Kushnir,Shir Habatlanim,Israel,2,73,8,False,1276,5.72,True
+844,Brussels,1987,Belgium,final,Kate Gulbrandsen,Mitt Liv,Norway,1,65,9,False,1276,5.09,True
+845,Bergen,1986,Norway,final,Dora,Não Sejas Mau Para Mim,Portugal,20,28,14,False,1160,2.41,True
+846,Bergen,1986,Norway,final,Kari Kuivalainen,Päivä Kahden Ihmisen,Finland,19,22,15,False,1160,1.9,True
+847,Bergen,1986,Norway,final,Lise Haavik and Trax,Du Er Fuld Af Løgn,Denmark,18,77,6,False,1160,6.64,True
+848,Bergen,1986,Norway,final,Lasse Holm and Monica Törnell,E' De' Det Här Du Kallar Kärlek,Sweden,17,78,5,False,1160,6.72,True
+849,Bergen,1986,Norway,final,Timna Brauer,Die Zeit Ist Einsam,Austria,16,12,18,False,1160,1.03,True
+850,Bergen,1986,Norway,final,Elpida,Tora Zo,Cyprus,15,4,20,False,1160,0.34,True
+851,Bergen,1986,Norway,final,Ingrid Peters,Über Die Brücke Geh'n,Germany,14,62,8,False,1160,5.34,True
+852,Bergen,1986,Norway,final,Sandra Kim,J'aime La Vie,Belgium,13,176,1,True,1160,15.17,True
+853,Bergen,1986,Norway,final,Luv Bug,You Can Count On Me,Ireland,12,96,4,False,1160,8.28,True
+854,Bergen,1986,Norway,final,Moti Galadi and Sarai Tzuriel,Yavoh Yom,Israel,11,7,19,False,1160,0.6,True
+855,Bergen,1986,Norway,final,Daniela Simons,Pas Pour Moi,Switzerland,10,140,2,False,1160,12.07,True
+856,Bergen,1986,Norway,final,Cadillac,Valentino,Spain,9,51,10,False,1160,4.4,True
+857,Bergen,1986,Norway,final,Klips ve Onlar,Halley,Turkey,8,53,9,False,1160,4.57,True
+858,Bergen,1986,Norway,final,Frizzle Sizzle,Alles Heeft Ritme,Netherlands,7,40,13,False,1160,3.45,True
+859,Bergen,1986,Norway,final,Icy,Gleðibankinn,Iceland,6,19,16,False,1160,1.64,True
+860,Bergen,1986,Norway,final,Ryder,Runner In The Night,United Kingdom,5,72,7,False,1160,6.21,True
+861,Bergen,1986,Norway,final,Ketil Stokkan,Romeo,Norway,4,44,12,False,1160,3.79,True
+862,Bergen,1986,Norway,final,Cocktail Chic,Européennes,France,3,13,17,False,1160,1.12,True
+863,Bergen,1986,Norway,final,Doris Dragovic,Zeljo Moja,Yugoslavia,2,49,11,False,1160,4.22,True
+864,Bergen,1986,Norway,final,Sherisse Laurence,L'amour De Ma Vie,Luxembourg,1,117,3,False,1160,10.09,True
+865,Gothenburg,1985,Sweden,final,Takis Biniaris,Miazoume,Greece,19,15,16,False,1102,1.36,True
+866,Gothenburg,1985,Sweden,final,"Margo, Franck Olivier, Diane Solomon, Ireen Sheer, Malcolm Roberts and Chris Roberts","Children, Kinder, Enfants",Luxembourg,18,37,13,False,1102,3.36,True
+867,Gothenburg,1985,Sweden,final,Gary Lux,Kinder Dieser Welt,Austria,17,60,8,False,1102,5.44,True
+868,Gothenburg,1985,Sweden,final,Kikki Danielsson,Bra Vibrationer,Sweden,16,103,3,False,1102,9.35,True
+869,Gothenburg,1985,Sweden,final,Mariella Farré and Pino Gasparini,Piano Piano,Switzerland,15,39,12,False,1102,3.54,True
+870,Gothenburg,1985,Sweden,final,Vikki,Love Is...,United Kingdom,14,100,4,False,1102,9.07,True
+871,Gothenburg,1985,Sweden,final,Bobbysocks,La Det Swinge,Norway,13,123,1,True,1102,11.16,True
+872,Gothenburg,1985,Sweden,final,Al Bano and Romina Power,"Magic, Oh Magic",Italy,12,78,7,False,1102,7.08,True
+873,Gothenburg,1985,Sweden,final,Izhar Cohen,Olé Olé,Israel,11,93,5,False,1102,8.44,True
+874,Gothenburg,1985,Sweden,final,Wind,Für Alle,Germany,10,105,2,False,1102,9.53,True
+875,Gothenburg,1985,Sweden,final,Adelaïde,"Penso Em Ti, Eu Sei",Portugal,9,9,18,False,1102,0.82,True
+876,Gothenburg,1985,Sweden,final,Linda Lepomme,Laat Me Nu Gaan,Belgium,8,7,19,False,1102,0.64,True
+877,Gothenburg,1985,Sweden,final,MFÖ,Di Dai Di Dai Dai (a'sik Oldum),Turkey,7,36,14,False,1102,3.27,True
+878,Gothenburg,1985,Sweden,final,Roger Bens,Femme Dans Ses Rêves Aussi,France,6,56,10,False,1102,5.08,True
+879,Gothenburg,1985,Sweden,final,Paloma San Basilio,La Fiesta Terminó,Spain,5,36,14,False,1102,3.27,True
+880,Gothenburg,1985,Sweden,final,Hot Eyes,Sku' Du Spør Fra No'n,Denmark,4,41,11,False,1102,3.72,True
+881,Gothenburg,1985,Sweden,final,Lia Vishy,To Katalava Arga,Cyprus,3,15,16,False,1102,1.36,True
+882,Gothenburg,1985,Sweden,final,Sonja Lumme,Eläköön Elämä,Finland,2,58,9,False,1102,5.26,True
+883,Gothenburg,1985,Sweden,final,Maria Christian,Wait Until The Weekend Comes,Ireland,1,91,6,False,1102,8.26,True
+884,Luxembourg,1984,Luxembourg,final,Maria Guinot,Silêncio E Tanta Gente,Portugal,19,38,11,False,1102,3.45,True
+885,Luxembourg,1984,Luxembourg,final,Alice and Battiato,I Treni Di Tozeur,Italy,18,70,5,False,1102,6.35,True
+886,Luxembourg,1984,Luxembourg,final,Rainy Day,Welche Farbe Hat Der Sonnenschein,Switzerland,17,30,16,False,1102,2.72,True
+887,Luxembourg,1984,Luxembourg,final,Kirka,Hengaillaan,Finland,16,46,9,False,1102,4.17,True
+888,Luxembourg,1984,Luxembourg,final,"Bes Yil Önce, On Yil Sonra",Halay,Turkey,15,37,12,False,1102,3.36,True
+889,Luxembourg,1984,Luxembourg,final,Mary Roos,Aufrecht Geh'n,Germany,14,34,13,False,1102,3.09,True
+890,Luxembourg,1984,Luxembourg,final,Anita,Einfach Weg,Austria,13,5,19,False,1102,0.45,True
+891,Luxembourg,1984,Luxembourg,final,Vlado and Isolda,Ciao Amore,Yugoslavia,12,26,18,False,1102,2.36,True
+892,Luxembourg,1984,Luxembourg,final,Maribelle,Ik Hou Van Jou,Netherlands,11,34,13,False,1102,3.09,True
+893,Luxembourg,1984,Luxembourg,final,Hot Eyes,Det' Lige Det,Denmark,10,101,4,False,1102,9.17,True
+894,Luxembourg,1984,Luxembourg,final,Linda Martin,Terminal '3',Ireland,9,137,2,False,1102,12.43,True
+895,Luxembourg,1984,Luxembourg,final,Jacques Zegers,Avanti La Vie,Belgium,8,70,5,False,1102,6.35,True
+896,Luxembourg,1984,Luxembourg,final,Andy Paul,Anna Mari-elena,Cyprus,7,31,15,False,1102,2.81,True
+897,Luxembourg,1984,Luxembourg,final,Belle and the Devotions,Love Games,United Kingdom,6,63,7,False,1102,5.72,True
+898,Luxembourg,1984,Luxembourg,final,Dollie de Luxe,Lenge Leve Livet,Norway,5,29,17,False,1102,2.63,True
+899,Luxembourg,1984,Luxembourg,final,Bravo,"Lady, Lady",Spain,4,106,3,False,1102,9.62,True
+900,Luxembourg,1984,Luxembourg,final,Annick Thoumazeau,Autant D'amoureux Que D'étoiles,France,3,61,8,False,1102,5.54,True
+901,Luxembourg,1984,Luxembourg,final,Sophie Carle,100% D'amour,Luxembourg,2,39,10,False,1102,3.54,True
+902,Luxembourg,1984,Luxembourg,final,Herrey's,Diggi-loo Diggy-ley,Sweden,1,145,1,True,1102,13.16,True
+903,Munich,1983,Germany,final,Corinne Hermès,Si La Vie Est Cadeau,Luxembourg,20,142,1,True,1160,12.24,True
+904,Munich,1983,Germany,final,Pas de Deux,Rendez-vous,Belgium,19,13,18,False,1160,1.12,True
+905,Munich,1983,Germany,final,Westend,Hurricane,Austria,18,53,9,False,1160,4.57,True
+906,Munich,1983,Germany,final,Armando Gama,Esta Balada Que Te Dou,Portugal,17,33,13,False,1160,2.84,True
+907,Munich,1983,Germany,final,Ofra Haza,Hi,Israel,16,136,2,False,1160,11.72,True
+908,Munich,1983,Germany,final,Gry Johansen,Kloden Drejer,Denmark,15,16,17,False,1160,1.38,True
+909,Munich,1983,Germany,final,Hoffmann und Hoffmann,Rücksicht,Germany,14,94,5,False,1160,8.1,True
+910,Munich,1983,Germany,final,Stavros and Constantina,I Agapi Akoma Zi,Cyprus,13,26,16,False,1160,2.24,True
+911,Munich,1983,Germany,final,Danijel,Dzuli,Yugoslavia,12,125,4,False,1160,10.78,True
+912,Munich,1983,Germany,final,Bernadette,Sing Me A Song,Netherlands,11,66,7,False,1160,5.69,True
+913,Munich,1983,Germany,final,Christie Stassinopoulou,Mou Les,Greece,10,32,14,False,1160,2.76,True
+914,Munich,1983,Germany,final,Ami Aspelund,Fantasiaa,Finland,9,41,11,False,1160,3.53,True
+915,Munich,1983,Germany,final,Mariella Farré,Io Così Non Ci Sto,Switzerland,8,28,15,False,1160,2.41,True
+916,Munich,1983,Germany,final,Riccardo Fogli,Per Lucia,Italy,5,41,11,False,1160,3.53,True
+917,Munich,1983,Germany,final,Carola Häggkvist,Främling,Sweden,4,126,3,False,1160,10.86,True
+918,Munich,1983,Germany,final,Sweet Dreams,I'm Never Giving Up,United Kingdom,3,79,6,False,1160,6.81,True
+919,Munich,1983,Germany,final,Jahn Teigen,Do Re Mi,Norway,2,53,9,False,1160,4.57,True
+920,Munich,1983,Germany,final,Guy Bonnet,Vivre,France,1,56,8,False,1160,4.83,True
+921,Harrogate,1982,United Kingdom,final,Nicole,Ein Bißchen Frieden,Germany,18,161,1,True,1044,15.42,True
+922,Harrogate,1982,United Kingdom,final,Doce,Bem-bom,Portugal,1,32,13,False,1044,3.07,True
+923,Harrogate,1982,United Kingdom,final,Svetlana,Cour Apres Le Temps,Luxembourg,2,78,6,False,1044,7.47,True
+924,Harrogate,1982,United Kingdom,final,Jahn Teigen and Anita Skorgan,Adieu,Norway,3,40,12,False,1044,3.83,True
+925,Harrogate,1982,United Kingdom,final,Bardo,One Step Further,United Kingdom,4,76,7,False,1044,7.28,True
+926,Harrogate,1982,United Kingdom,final,Neço,Hani,Turkey,5,20,15,False,1044,1.92,True
+927,Harrogate,1982,United Kingdom,final,Arlette Zola,Amour On T'aime,Switzerland,7,97,3,False,1044,9.29,True
+928,Harrogate,1982,United Kingdom,final,Anna Vishy,Mono I Agapi,Cyprus,8,85,5,False,1044,8.14,True
+929,Harrogate,1982,United Kingdom,final,Chips,Dag Efter Dag,Sweden,9,67,8,False,1044,6.42,True
+930,Harrogate,1982,United Kingdom,final,Mess,Sonntag,Austria,10,57,9,False,1044,5.46,True
+931,Harrogate,1982,United Kingdom,final,Stella,Si Tu Aimes Ma Musique,Belgium,11,96,4,False,1044,9.2,True
+932,Harrogate,1982,United Kingdom,final,Lucía,Él,Spain,12,52,10,False,1044,4.98,True
+933,Harrogate,1982,United Kingdom,final,Brixx,Video-video,Denmark,13,5,17,False,1044,0.48,True
+934,Harrogate,1982,United Kingdom,final,Aska,Halo Halo,Yugoslavia,14,21,14,False,1044,2.01,True
+935,Harrogate,1982,United Kingdom,final,Avi Toledano,Hora,Israel,15,100,2,False,1044,9.58,True
+936,Harrogate,1982,United Kingdom,final,Bill van Dijk,Jij En Ik,Netherlands,16,8,16,False,1044,0.77,True
+937,Harrogate,1982,United Kingdom,final,The Duskeys,"Here Today, Gone Tomorrow",Ireland,17,49,11,False,1044,4.69,True
+938,Dublin,1981,Ireland,final,Björn Skifs,Fångad I En Dröm,Sweden,20,50,10,False,1160,4.31,True
+939,Dublin,1981,Ireland,final,"Peter, Sue and  Marc",Io Senza Tei,Switzerland,19,121,4,False,1160,10.43,True
+940,Dublin,1981,Ireland,final,Island,Monika,Cyprus,18,69,6,False,1160,5.95,True
+941,Dublin,1981,Ireland,final,Yiannis Dimitras,Feggari Kalokerino,Greece,17,55,8,False,1160,4.74,True
+942,Dublin,1981,Ireland,final,Emly Starr,Samson,Belgium,16,40,13,False,1160,3.45,True
+943,Dublin,1981,Ireland,final,Carlos Paião,Play-back,Portugal,15,9,18,False,1160,0.78,True
+944,Dublin,1981,Ireland,final,Bucks Fizz,Making Your Mind Up,United Kingdom,14,136,1,True,1160,11.72,True
+945,Dublin,1981,Ireland,final,Sheeba,Horoscopes,Ireland,12,105,5,False,1160,9.05,True
+946,Dublin,1981,Ireland,final,Linda Williams,Het Is Een Wonder,Netherlands,11,51,9,False,1160,4.4,True
+947,Dublin,1981,Ireland,final,Bacchelli,Y Solo Tú,Spain,10,38,14,False,1160,3.28,True
+948,Dublin,1981,Ireland,final,Jean Gabilou,Humanahum,France,9,125,3,False,1160,10.78,True
+949,Dublin,1981,Ireland,final,Riki Sorsa,Reggae O.k.,Finland,8,27,16,False,1160,2.33,True
+950,Dublin,1981,Ireland,final,Seid-Memic Vajta,Leila,Yugoslavia,7,35,15,False,1160,3.02,True
+951,Dublin,1981,Ireland,final,Debbie Cameron and Tommy Seebach,Krøller Eller Ej,Denmark,6,41,11,False,1160,3.53,True
+952,Dublin,1981,Ireland,final,Habibi,Halaylah,Israel,5,56,7,False,1160,4.83,True
+953,Dublin,1981,Ireland,final,Jean-Claude Pascal,C'est Peut-être Pas L'amérique,Luxembourg,4,41,11,False,1160,3.53,True
+954,Dublin,1981,Ireland,final,Lena Valaitis,Johnny Blue,Germany,3,132,2,False,1160,11.38,True
+955,Dublin,1981,Ireland,final,Modern Folk Trio and Aysegül,Dönme Dolap,Turkey,2,9,18,False,1160,0.78,True
+956,Dublin,1981,Ireland,final,Marty Brem,Wenn Du Da Bist,Austria,1,20,17,False,1160,1.72,True
+957,The Hague,1980,Netherlands,final,Telex,Euro-vision,Belgium,19,14,17,False,1102,1.27,True
+958,The Hague,1980,Netherlands,final,Trigo Limpio,Qué Date Esta Noche,Spain,18,38,12,False,1102,3.45,True
+959,The Hague,1980,Netherlands,final,Johnny Logan,What's Another Year,Ireland,17,143,1,True,1102,12.98,True
+960,The Hague,1980,Netherlands,final,Profil,"Hé, Hé M'sieurs Dames",France,16,45,11,False,1102,4.08,True
+961,The Hague,1980,Netherlands,final,Maggie MacNeal,Amsterdam,Netherlands,15,93,5,False,1102,8.44,True
+962,The Hague,1980,Netherlands,final,José Cid,"Um Grande, Grande Amor",Portugal,14,71,7,False,1102,6.44,True
+963,The Hague,1980,Netherlands,final,Prima Donna,Love Enough For Two,United Kingdom,13,106,3,False,1102,9.62,True
+964,The Hague,1980,Netherlands,final,Katja Ebstein,Theater,Germany,12,128,2,False,1102,11.62,True
+965,The Hague,1980,Netherlands,final,Sverre Kjellsberg and Mattis Hætta,Sámiid Ædnan,Norway,11,15,16,False,1102,1.36,True
+966,The Hague,1980,Netherlands,final,Vesa-Matti Loiri,Huilumies,Finland,10,6,19,False,1102,0.54,True
+967,The Hague,1980,Netherlands,final,Paola,Cinéma,Switzerland,9,104,4,False,1102,9.44,True
+968,The Hague,1980,Netherlands,final,Tomas Ledin,Just Nu!,Sweden,8,47,10,False,1102,4.26,True
+969,The Hague,1980,Netherlands,final,Bamses Venner,Tænker Altid På Dig,Denmark,7,25,14,False,1102,2.27,True
+970,The Hague,1980,Netherlands,final,Alan Sorrenti,Non So Che Darei,Italy,6,87,6,False,1102,7.89,True
+971,The Hague,1980,Netherlands,final,Samira Bensaïd,Bitakat Hob,Morocco,5,7,18,False,1102,0.64,True
+972,The Hague,1980,Netherlands,final,Sophie and Magaly,Papa Pingouin,Luxembourg,4,56,9,False,1102,5.08,True
+973,The Hague,1980,Netherlands,final,Anna Vishy and the Epikouri,Autostop,Greece,3,30,13,False,1102,2.72,True
+974,The Hague,1980,Netherlands,final,Ajda Pekkan,Petr'oil,Turkey,2,23,15,False,1102,2.09,True
+975,The Hague,1980,Netherlands,final,Blue Danube,Du Bist Musik,Austria,1,64,8,False,1102,5.81,True
+976,Jerusalem,1979,Israel,final,Betty Missiego,Su Canción,Spain,19,116,2,False,1102,10.53,True
+977,Jerusalem,1979,Israel,final,Christina Simon,Heute In Jerusalem,Austria,18,5,18,False,1102,0.45,True
+978,Jerusalem,1979,Israel,final,Black Lace,Mary Ann,United Kingdom,17,73,7,False,1102,6.62,True
+979,Jerusalem,1979,Israel,final,Anita Skorgan,Oliver,Norway,16,57,11,False,1102,5.17,True
+980,Jerusalem,1979,Israel,final,Ted Gärdestad,Satellit,Sweden,15,8,17,False,1102,0.73,True
+981,Jerusalem,1979,Israel,final,Xandra,Colorado,Netherlands,14,51,12,False,1102,4.63,True
+982,Jerusalem,1979,Israel,final,Jeane Manson,J'ai Déjà Vu ça Dans Tes Yeux,Luxembourg,13,44,13,False,1102,3.99,True
+983,Jerusalem,1979,Israel,final,Micha Marah,Hey Nana,Belgium,12,5,18,False,1102,0.45,True
+984,Jerusalem,1979,Israel,final,Anne-Marie David,Je Suis L'enfant-soleil,France,11,106,3,False,1102,9.62,True
+985,Jerusalem,1979,Israel,final,Milk and Honey,Hallelujah,Israel,10,125,1,True,1102,11.34,True
+986,Jerusalem,1979,Israel,final,Dschinghis Khan,Dschinghis Khan,Germany,9,86,4,False,1102,7.8,True
+987,Jerusalem,1979,Israel,final,"Peter, Sue and Marc and Pfuri, Gorps and Kniri",Trödler Und Co.,Switzerland,8,60,10,False,1102,5.44,True
+988,Jerusalem,1979,Israel,final,Elpida,Socrates,Greece,7,69,8,False,1102,6.26,True
+989,Jerusalem,1979,Israel,final,Laurent Vaguener,"Notre Vie, C'est La Musique",Monaco,6,12,16,False,1102,1.09,True
+990,Jerusalem,1979,Israel,final,Katri-Helena,Katso Sineen Taivaan,Finland,5,38,14,False,1102,3.45,True
+991,Jerusalem,1979,Israel,final,Cathal Dunne,Happy Man,Ireland,4,80,5,False,1102,7.26,True
+992,Jerusalem,1979,Israel,final,Tommy Seebach,Disco Tango,Denmark,3,76,6,False,1102,6.9,True
+993,Jerusalem,1979,Israel,final,Matia Bazar,Raggio Di Luna,Italy,2,27,15,False,1102,2.45,True
+994,Jerusalem,1979,Israel,final,Manuela Bravo,"Sobe, Sobe, Balão Sobe",Portugal,1,64,9,False,1102,5.81,True
+995,Paris,1978,France,final,Björn Skifs,Det Blir Alltid Värre Framåt Natten,Sweden,20,26,14,False,1160,2.24,True
+996,Paris,1978,France,final,Springtime,Mrs. Caroline Robinson,Austria,19,14,15,False,1160,1.21,True
+997,Paris,1978,France,final,Izhar Cohen and the Alphabeta,Abanibi,Israel,18,157,1,True,1160,13.53,True
+998,Paris,1978,France,final,Baccara,Parlez-vous Français?,Luxembourg,17,73,7,False,1160,6.29,True
+999,Paris,1978,France,final,Mabel,Boom Boom,Denmark,16,13,16,False,1160,1.12,True
+1000,Paris,1978,France,final,Tania Tsanaklidou,Charlie Chaplin,Greece,15,66,8,False,1160,5.69,True
+1001,Paris,1978,France,final,Caline and Olivier Toussaint,Les Jardins De Monaco,Monaco,14,107,4,False,1160,9.22,True
+1002,Paris,1978,France,final,Ireen Sheer,Feuer,Germany,13,84,6,False,1160,7.24,True
+1003,Paris,1978,France,final,Nazar,Sevinçe,Turkey,12,2,18,False,1160,0.17,True
+1004,Paris,1978,France,final,Harmony,'t Is Ok,Netherlands,11,37,13,False,1160,3.19,True
+1005,Paris,1978,France,final,Jean Vallée,L'amour ça Fait Chanter La Vie,Belgium,10,125,2,False,1160,10.78,True
+1006,Paris,1978,France,final,Carole Vinci,Vivre,Switzerland,9,65,9,False,1160,5.6,True
+1007,Paris,1978,France,final,Co-Co,The Bad Old Days,United Kingdom,8,61,11,False,1160,5.26,True
+1008,Paris,1978,France,final,José Vélez,Bailemos Un Vals,Spain,7,65,9,False,1160,5.6,True
+1009,Paris,1978,France,final,Joël Prévost,Il Y Aura Toujours Des Violons,France,6,119,3,False,1160,10.26,True
+1010,Paris,1978,France,final,Gemini,Dai-li-dou,Portugal,5,5,17,False,1160,0.43,True
+1011,Paris,1978,France,final,Seija Simola,Anna Rakkaudelle Tilaisuus,Finland,4,2,18,False,1160,0.17,True
+1012,Paris,1978,France,final,Ricchi e Poveri,Questo Amore,Italy,3,53,12,False,1160,4.57,True
+1013,Paris,1978,France,final,Colm T. Wilkinson,Born To Sing,Ireland,1,86,5,False,1160,7.41,True
+1014,London,1977,United Kingdom,final,Marie Myriam,L'oiseau Et L'enfant,France,18,136,1,True,1044,13.03,True
+1015,London,1977,United Kingdom,final,Dream Express,"A Million In One, Two, Three",Belgium,17,69,7,False,1044,6.61,True
+1016,London,1977,United Kingdom,final,Monica Aspelund,Lapponia,Finland,16,50,10,False,1044,4.79,True
+1017,London,1977,United Kingdom,final,Mia Martini,Liberà,Italy,15,33,13,False,1044,3.16,True
+1018,London,1977,United Kingdom,final,Micky,Enseñame A Cantar,Spain,14,52,9,False,1044,4.98,True
+1019,London,1977,United Kingdom,final,Forbes,Beatles,Sweden,13,2,18,False,1044,0.19,True
+1020,London,1977,United Kingdom,final,Pepe Lienhard Band,Swiss Lady,Switzerland,12,71,6,False,1044,6.8,True
+1021,London,1977,United Kingdom,final,Ilanit,Ah-haa-vah Hee Shir Lish-naa-yim,Israel,11,49,11,False,1044,4.69,True
+1022,London,1977,United Kingdom,final,"Pascalis, Marianna, Robert and  Bessy",Mathema Solfege,Greece,10,92,5,False,1044,8.81,True
+1023,London,1977,United Kingdom,final,Lynsey de Paul and Mike Moran,Rock Bottom,United Kingdom,9,121,2,False,1044,11.59,True
+1024,London,1977,United Kingdom,final,Os Amigos,Portugal No Coração,Portugal,8,18,14,False,1044,1.72,True
+1025,London,1977,United Kingdom,final,Anne Marie B.,Frère Jacques,Luxembourg,7,17,16,False,1044,1.63,True
+1026,London,1977,United Kingdom,final,Silver Convention,Telegram,Germany,6,55,8,False,1044,5.27,True
+1027,London,1977,United Kingdom,final,Anita Skorgan,Casanova,Norway,5,18,14,False,1044,1.72,True
+1028,London,1977,United Kingdom,final,Schmetterlinge,Boom Boom Boomerang,Austria,4,11,17,False,1044,1.05,True
+1029,London,1977,United Kingdom,final,Heddy Lester,De Mallemolen,Netherlands,3,35,12,False,1044,3.35,True
+1030,London,1977,United Kingdom,final,Michèle Torr,Une Petite Française,Monaco,2,96,4,False,1044,9.2,True
+1031,London,1977,United Kingdom,final,The Swarbriggs Plus Two,It's Nice To Be In Love Again,Ireland,1,119,3,False,1044,11.4,True
+1032,The Hague,1976,Netherlands,final,Ambasadori,Ne Mogu Skriti Svoju Bol,Yugoslavia,18,10,17,False,1044,0.96,True
+1033,The Hague,1976,Netherlands,final,Catherine Ferry,"Un, Deux, Trois",France,17,147,2,False,1044,14.08,True
+1034,The Hague,1976,Netherlands,final,Mary Christy,"Toi, La Musique Et Moi",Monaco,16,93,3,False,1044,8.91,True
+1035,The Hague,1976,Netherlands,final,Carlos do Carmo,Uma Flor De Verde Pinho,Portugal,15,24,12,False,1044,2.3,True
+1036,The Hague,1976,Netherlands,final,Waterloo and Robinson,My Little World,Austria,14,80,5,False,1044,7.66,True
+1037,The Hague,1976,Netherlands,final,Romina and Al Bano,We'll Live It All Again,Italy,13,69,7,False,1044,6.61,True
+1038,The Hague,1976,Netherlands,final,Braulio,Sobran Las Palabras,Spain,12,11,16,False,1044,1.05,True
+1039,The Hague,1976,Netherlands,final,Fredi and The Friends,Pump-pump,Finland,11,44,11,False,1044,4.21,True
+1040,The Hague,1976,Netherlands,final,Mariza Koch,"Panaghia Mou, Panaghia Mou",Greece,10,20,13,False,1044,1.92,True
+1041,The Hague,1976,Netherlands,final,Anne-Karine Ström,Mata Hari,Norway,9,7,18,False,1044,0.67,True
+1042,The Hague,1976,Netherlands,final,Sandra Reemer,The Party's Over Now,Netherlands,8,56,9,False,1044,5.36,True
+1043,The Hague,1976,Netherlands,final,Red Hurley,When,Ireland,7,54,10,False,1044,5.17,True
+1044,The Hague,1976,Netherlands,final,Pierre Rapsat,Judy Et Cie.,Belgium,6,68,8,False,1044,6.51,True
+1045,The Hague,1976,Netherlands,final,Jürgen Marcus,Chansons Pour Ceux Qui S'aiment,Luxembourg,5,17,14,False,1044,1.63,True
+1046,The Hague,1976,Netherlands,final,"Chocolate, Menta, Mastik",Emor Shalom,Israel,4,77,6,False,1044,7.38,True
+1047,The Hague,1976,Netherlands,final,Les Humphries Singers,"Sing, Sang, Song",Germany,3,12,15,False,1044,1.15,True
+1048,The Hague,1976,Netherlands,final,"Peter, Sue and Marc","Djambo, Djambo",Switzerland,2,91,4,False,1044,8.72,True
+1049,The Hague,1976,Netherlands,final,Brotherhood of Man,Save Your Kisses For Me,United Kingdom,1,164,1,True,1044,15.71,True
+1050,Stockholm,1975,Sweden,final,Wess and Dori Ghezzi,Era,Italy,19,115,3,False,1102,10.44,True
+1051,Stockholm,1975,Sweden,final,Lars Berghagen and the Dolls,"Jennie, Jennie",Sweden,18,72,8,False,1102,6.53,True
+1052,Stockholm,1975,Sweden,final,Sergio y Estíbaliz,Tú Volverás,Spain,17,53,10,False,1102,4.81,True
+1053,Stockholm,1975,Sweden,final,Duarte Mendes,Madrugada,Portugal,16,16,16,False,1102,1.45,True
+1054,Stockholm,1975,Sweden,final,Pihasoittajat,Old Man Fiddle,Finland,15,74,7,False,1102,6.72,True
+1055,Stockholm,1975,Sweden,final,Sophie,Une Chanson C'est Une Lettre,Monaco,14,22,13,False,1102,2.0,True
+1056,Stockholm,1975,Sweden,final,Semiha Yanki,Seninle Bir Dakika,Turkey,13,3,19,False,1102,0.27,True
+1057,Stockholm,1975,Sweden,final,Shlomo Artzi,At Ve'ani,Israel,12,40,11,False,1102,3.63,True
+1058,Stockholm,1975,Sweden,final,Ann Christy,Gelukkig Zijn,Belgium,11,17,15,False,1102,1.54,True
+1059,Stockholm,1975,Sweden,final,Renato,Singing This Song,Malta,10,32,12,False,1102,2.9,True
+1060,Stockholm,1975,Sweden,final,The Shadows,Let Me Be The One,United Kingdom,9,138,2,False,1102,12.52,True
+1061,Stockholm,1975,Sweden,final,Pepel In Kri,Dan Ljubezni,Yugoslavia,8,22,13,False,1102,2.0,True
+1062,Stockholm,1975,Sweden,final,Simone Drexel,Mikado,Switzerland,7,77,6,False,1102,6.99,True
+1063,Stockholm,1975,Sweden,final,Ellen Nikolaysen,You Touched My Life With Summer,Norway,6,11,18,False,1102,1.0,True
+1064,Stockholm,1975,Sweden,final,Géraldine,Toi,Luxembourg,5,84,5,False,1102,7.62,True
+1065,Stockholm,1975,Sweden,final,Joy Fleming,Ein Lied Kann Eine Brücke Sein,Germany,4,15,17,False,1102,1.36,True
+1066,Stockholm,1975,Sweden,final,Nicole Rieu,Et Bonjour à Toi L'artiste,France,3,91,4,False,1102,8.26,True
+1067,Stockholm,1975,Sweden,final,The Swarbriggs,That's What Friends Are For,Ireland,2,68,9,False,1102,6.17,True
+1068,Stockholm,1975,Sweden,final,Teach-In,Ding-A-Dong,Netherlands,1,152,1,True,1102,13.79,True
+1069,Brighton,1974,United Kingdom,final,Gigliola Cinquetti,Si,Italy,17,18,2,False,170,10.59,True
+1070,Brighton,1974,United Kingdom,final,Paulo de Carvalho,E Depois Do Adeus,Portugal,16,3,14,False,170,1.76,True
+1071,Brighton,1974,United Kingdom,final,Piera Martell,Mein Ruf Nach Dir,Switzerland,15,3,14,False,170,1.76,True
+1072,Brighton,1974,United Kingdom,final,Cindy und Bert,Die Sommermelodie,Germany,14,3,14,False,170,1.76,True
+1073,Brighton,1974,United Kingdom,final,Tina,Cross Your Heart,Ireland,13,11,7,False,170,6.47,True
+1074,Brighton,1974,United Kingdom,final,Mouth and MacNeal,I See A Star,Netherlands,12,15,3,False,170,8.82,True
+1075,Brighton,1974,United Kingdom,final,Jacques Hustin,Fleur De Liberté,Belgium,11,10,9,False,170,5.88,True
+1076,Brighton,1974,United Kingdom,final,Romuald,Celui Qui Reste Et Celui Qui S'en Va,Monaco,10,14,4,False,170,8.24,True
+1077,Brighton,1974,United Kingdom,final,Ireen Sheer,"Bye, Bye, I Love You",Luxembourg,9,14,4,False,170,8.24,True
+1078,Brighton,1974,United Kingdom,final,ABBA,Waterloo,Sweden,8,24,1,True,170,14.12,True
+1079,Brighton,1974,United Kingdom,final,Korni,Generacija 42,Yugoslavia,7,6,12,False,170,3.53,True
+1080,Brighton,1974,United Kingdom,final,Poogy,Natati La Khaiai,Israel,6,11,7,False,170,6.47,True
+1081,Brighton,1974,United Kingdom,final,Marinella,"Krassi, Thalassa Ke T'agori Mou",Greece,5,7,11,False,170,4.12,True
+1082,Brighton,1974,United Kingdom,final,Anne-Karine Ström and the Bendik Singers,The First Day Of Love,Norway,4,3,14,False,170,1.76,True
+1083,Brighton,1974,United Kingdom,final,Peret,Canta Y Se Feliz,Spain,3,10,9,False,170,5.88,True
+1084,Brighton,1974,United Kingdom,final,Olivia Newton-John,Long Live Love,United Kingdom,2,14,4,False,170,8.24,True
+1085,Brighton,1974,United Kingdom,final,Carita,Äla Mene Pois (Keep Me Warm),Finland,1,4,13,False,170,2.35,True
+1086,Luxembourg,1973,Luxembourg,final,Ilanit,Ey-sham,Israel,17,97,4,False,1490,6.51,True
+1087,Luxembourg,1973,Luxembourg,final,Martine Clémenceau,Sans Toi,France,16,65,15,False,1490,4.36,True
+1088,Luxembourg,1973,Luxembourg,final,Cliff Richard,Power To All Our Friends,United Kingdom,15,123,3,False,1490,8.26,True
+1089,Luxembourg,1973,Luxembourg,final,Maxi,Do I Dream?,Ireland,14,80,10,False,1490,5.37,True
+1090,Luxembourg,1973,Luxembourg,final,Ben Cramer,De Oude Muzikant,Netherlands,13,69,14,False,1490,4.63,True
+1091,Luxembourg,1973,Luxembourg,final,The Nova and The Dolls,You're Summer,Sweden,12,94,5,False,1490,6.31,True
+1092,Luxembourg,1973,Luxembourg,final,Anne-Marie David,Tu Te Reconnaîtras,Luxembourg,11,129,1,True,1490,8.66,True
+1093,Luxembourg,1973,Luxembourg,final,Massimo Ranieri,Chi Sarà Con Te,Italy,10,74,13,False,1490,4.97,True
+1094,Luxembourg,1973,Luxembourg,final,Zdravko Colic,Gori Vatra,Yugoslavia,9,65,15,False,1490,4.36,True
+1095,Luxembourg,1973,Luxembourg,final,Patrick Juvet,"Je Me Vais Marier, Marie",Switzerland,8,79,12,False,1490,5.3,True
+1096,Luxembourg,1973,Luxembourg,final,Mocedades,Eres Tú,Spain,7,125,2,False,1490,8.39,True
+1097,Luxembourg,1973,Luxembourg,final,Marie,Un Train Qui Part,Monaco,6,85,8,False,1490,5.7,True
+1098,Luxembourg,1973,Luxembourg,final,Bendik Singers,It's Just A Game,Norway,5,89,7,False,1490,5.97,True
+1099,Luxembourg,1973,Luxembourg,final,Gitte,Junger Tag,Germany,4,85,8,False,1490,5.7,True
+1100,Luxembourg,1973,Luxembourg,final,Fernando Tordo,Tourada,Portugal,3,80,10,False,1490,5.37,True
+1101,Luxembourg,1973,Luxembourg,final,Nicole and Hugo,"Baby, Baby",Belgium,2,58,17,False,1490,3.89,True
+1102,Luxembourg,1973,Luxembourg,final,Marion Rung,Tom Tom Tom,Finland,1,93,6,False,1490,6.24,True
+1103,Edinburgh,1972,United Kingdom,final,Sandra and Andres,Als Het Om De Liefde Gaat,Netherlands,18,106,4,False,1542,6.87,True
+1104,Edinburgh,1972,United Kingdom,final,Vicky Leandros,Après Toi,Luxembourg,17,128,1,True,1542,8.3,True
+1105,Edinburgh,1972,United Kingdom,final,Serge and Christine Ghisoland,À La Folie Ou Pas Du Tout,Belgium,16,55,17,False,1542,3.57,True
+1106,Edinburgh,1972,United Kingdom,final,Anne-Marie Godart and Peter MacLane,Comme On S'aime,Monaco,15,65,16,False,1542,4.22,True
+1107,Edinburgh,1972,United Kingdom,final,Family Four,Härliga Sommardag,Sweden,14,75,13,False,1542,4.86,True
+1108,Edinburgh,1972,United Kingdom,final,Tereza,Muzika I Ti,Yugoslavia,13,87,9,False,1542,5.64,True
+1109,Edinburgh,1972,United Kingdom,final,Nicola di Bari,I Giorni Dell' Arcobaleno,Italy,12,92,6,False,1542,5.97,True
+1110,Edinburgh,1972,United Kingdom,final,The Milestones,Falter Im Wind,Austria,11,100,5,False,1542,6.49,True
+1111,Edinburgh,1972,United Kingdom,final,Päivi Paunu and Kim Floor,Muistathan,Finland,10,78,12,False,1542,5.06,True
+1112,Edinburgh,1972,United Kingdom,final,Helen and Joseph,L-imhabba,Malta,9,48,18,False,1542,3.11,True
+1113,Edinburgh,1972,United Kingdom,final,Véronique Müller,C'est La Chanson De Mon Amour,Switzerland,8,88,8,False,1542,5.71,True
+1114,Edinburgh,1972,United Kingdom,final,Carlos Mendes,A Festa Da Vida,Portugal,7,90,7,False,1542,5.84,True
+1115,Edinburgh,1972,United Kingdom,final,Grethe Kausland and Benny Borg,Småting,Norway,6,73,14,False,1542,4.73,True
+1116,Edinburgh,1972,United Kingdom,final,The New Seekers,"Beg, Steal Or Borrow",United Kingdom,5,114,2,False,1542,7.39,True
+1117,Edinburgh,1972,United Kingdom,final,Jaime Morey,Amanece,Spain,4,83,10,False,1542,5.38,True
+1118,Edinburgh,1972,United Kingdom,final,Sandie Jones,Ceol On Ghrá,Ireland,3,72,15,False,1542,4.67,True
+1119,Edinburgh,1972,United Kingdom,final,Betty Mars,Comé-comédie,France,2,81,11,False,1542,5.25,True
+1120,Edinburgh,1972,United Kingdom,final,Mary Roos,Nur Die Liebe Läßt Uns Leben,Germany,1,107,3,False,1542,6.94,True
+1121,Dublin,1971,Ireland,final,Hanne Krogh,Lykken Er...,Norway,18,65,17,False,1498,4.34,True
+1122,Dublin,1971,Ireland,final,Markku Aro and Koivisto Sisters,Tie Uuteen Päivään,Finland,17,84,8,False,1498,5.61,True
+1123,Dublin,1971,Ireland,final,Krunoslav Slabinac,Tvoj Djecak Je Tuzan,Yugoslavia,16,68,14,False,1498,4.54,True
+1124,Dublin,1971,Ireland,final,Tonicha,Menina Do Alto Da Serra,Portugal,15,83,9,False,1498,5.54,True
+1125,Dublin,1971,Ireland,final,Saskia and Serge,De Tijd,Netherlands,14,85,6,False,1498,5.67,True
+1126,Dublin,1971,Ireland,final,Angela Farrell,One Day Love,Ireland,13,79,11,False,1498,5.27,True
+1127,Dublin,1971,Ireland,final,Family Four,Vita Vidder,Sweden,12,85,6,False,1498,5.67,True
+1128,Dublin,1971,Ireland,final,Massimo Ranieri,L'amore è Un Attimo,Italy,11,91,5,False,1498,6.07,True
+1129,Dublin,1971,Ireland,final,Lily Castel and Jacques Raymond,"Goeie Morgen, Morgen",Belgium,10,68,14,False,1498,4.54,True
+1130,Dublin,1971,Ireland,final,Clodagh Rodgers,Jack In The Box,United Kingdom,9,98,4,False,1498,6.54,True
+1131,Dublin,1971,Ireland,final,Monique Melsen,"Pomme, Pomme, Pomme",Luxembourg,8,70,13,False,1498,4.67,True
+1132,Dublin,1971,Ireland,final,Serge Lama,Un Jardin Sur La Terre,France,7,82,10,False,1498,5.47,True
+1133,Dublin,1971,Ireland,final,Karina,En Un Mundo Nuevo,Spain,6,116,2,False,1498,7.74,True
+1134,Dublin,1971,Ireland,final,Katja Ebstein,Diese Welt,Germany,5,100,3,False,1498,6.68,True
+1135,Dublin,1971,Ireland,final,"Peter, Sue and Marc",Les Illusions De Nos Vingt Ans,Switzerland,4,78,12,False,1498,5.21,True
+1136,Dublin,1971,Ireland,final,Séverine,"Un Banc, Un Arbre, Une Rue",Monaco,3,128,1,True,1498,8.54,True
+1137,Dublin,1971,Ireland,final,Joe Grech,Marija L-maltija,Malta,2,52,18,False,1498,3.47,True
+1138,Dublin,1971,Ireland,final,Marianne Mendt,Musik,Austria,1,66,16,False,1498,4.41,True
+1139,Amsterdam,1970,Netherlands,final,Dana,All Kinds Of Everything,Ireland,12,32,1,True,120,26.67,True
+1140,Amsterdam,1970,Netherlands,final,Katja Ebstein,Wunder Gibt Es Immer Wieder,Germany,11,12,3,False,120,10.0,True
+1141,Amsterdam,1970,Netherlands,final,Dominique Dussault,Marlène,Monaco,10,5,8,False,120,4.17,True
+1142,Amsterdam,1970,Netherlands,final,Julio Iglesias,Gwendolyne,Spain,9,8,4,False,120,6.67,True
+1143,Amsterdam,1970,Netherlands,final,Mary Hopkin,"Knock, Knock (who's There?)",United Kingdom,7,26,2,False,120,21.67,True
+1144,Amsterdam,1970,Netherlands,final,Guy Bonnet,Marie Blanche,France,6,8,4,False,120,6.67,True
+1145,Amsterdam,1970,Netherlands,final,Jean Vallée,Viens L'oublier,Belgium,5,5,8,False,120,4.17,True
+1146,Amsterdam,1970,Netherlands,final,Eva Sren,"Pridi, Dala Ti Bom Cvet",Yugoslavia,4,4,11,False,120,3.33,True
+1147,Amsterdam,1970,Netherlands,final,Gianni Morandi,Occhi Di Ragazza,Italy,3,5,8,False,120,4.17,True
+1148,Amsterdam,1970,Netherlands,final,Henri Dès,Retour,Switzerland,2,8,4,False,120,6.67,True
+1149,Amsterdam,1970,Netherlands,final,Patricia and Hearts of Soul,Waterman,Netherlands,1,7,7,False,120,5.83,True
+1150,Madrid,1969,Spain,final,Jarkko and Laura,Kuin Silloin Ennen,Finland,16,6,12,False,160,3.75,True
+1151,Madrid,1969,Spain,final,Simone de Oliveira,Desfolhada Portuguesa,Portugal,15,4,15,False,160,2.5,True
+1152,Madrid,1969,Spain,final,Frida Boccara,"Un Jour, Un Enfant",France,14,18,1,True,160,11.25,True
+1153,Madrid,1969,Spain,final,Siw Malmkvist,Primaballerina,Germany,13,8,9,False,160,5.0,True
+1154,Madrid,1969,Spain,final,Kirsti Sparboe,"Oj, Oj, Oj, Så Glad, Jeg Skal Bli",Norway,12,1,16,False,160,0.62,True
+1155,Madrid,1969,Spain,final,Paola del Medico,"Bonjour, Bonjour",Switzerland,11,13,5,False,160,8.12,True
+1156,Madrid,1969,Spain,final,Louis Neefs,Jennifer Jennings,Belgium,10,10,7,False,160,6.25,True
+1157,Madrid,1969,Spain,final,Tommy Körberg,"Judy, Min Vän",Sweden,9,8,9,False,160,5.0,True
+1158,Madrid,1969,Spain,final,Lenny Kuhr,De Troubadour,Netherlands,8,18,1,True,160,11.25,True
+1159,Madrid,1969,Spain,final,Lulu,Boom Bang-a-bang,United Kingdom,7,18,1,True,160,11.25,True
+1160,Madrid,1969,Spain,final,Iva Zanicchi,Due Grosse Lacrime Bianche,Italy,6,5,13,False,160,3.12,True
+1161,Madrid,1969,Spain,final,Muriel Day and the Lindsays,The Wages Of Love,Ireland,5,10,7,False,160,6.25,True
+1162,Madrid,1969,Spain,final,Jean-Jacques,"Maman, Maman",Monaco,4,11,6,False,160,6.88,True
+1163,Madrid,1969,Spain,final,Salomé,Vivo Cantando,Spain,3,18,1,True,160,11.25,True
+1164,Madrid,1969,Spain,final,Romuald,Cathérine,Luxembourg,2,7,11,False,160,4.38,True
+1165,Madrid,1969,Spain,final,Ivan,Pozdrav Svijetu,Yugoslavia,1,5,13,False,160,3.12,True
+1166,London,1968,United Kingdom,final,Luci Kapurso and Hamo Hajdarhodzic,Jedan Dan,Yugoslavia,17,8,7,False,170,4.71,True
+1167,London,1968,United Kingdom,final,Wencke Myhre,Ein Hoch Der Liebe,Germany,16,11,6,False,170,6.47,True
+1168,London,1968,United Kingdom,final,Massiel,"La, La, La...",Spain,15,29,1,True,170,17.06,True
+1169,London,1968,United Kingdom,final,Pat McGeegan,Chance Of A Lifetime,Ireland,14,18,4,False,170,10.59,True
+1170,London,1968,United Kingdom,final,Odd Børre,Stress,Norway,13,2,13,False,170,1.18,True
+1171,London,1968,United Kingdom,final,Cliff Richard,Congratulations,United Kingdom,12,28,2,False,170,16.47,True
+1172,London,1968,United Kingdom,final,Sergio Endrigo,Marianne,Italy,11,7,10,False,170,4.12,True
+1173,London,1968,United Kingdom,final,Isabelle Aubret,La Source,France,10,20,3,False,170,11.76,True
+1174,London,1968,United Kingdom,final,Kristina Hautala,Kun Kello Käy,Finland,9,1,16,False,170,0.59,True
+1175,London,1968,United Kingdom,final,Claes-Göran Hederström,"Det Börjar Verka Kärlek, Banne Mej",Sweden,8,15,5,False,170,8.82,True
+1176,London,1968,United Kingdom,final,Line and Willy,A Chacun Sa Chanson,Monaco,7,8,7,False,170,4.71,True
+1177,London,1968,United Kingdom,final,Gianni Mascolo,Guardando Il Sole,Switzerland,6,2,13,False,170,1.18,True
+1178,London,1968,United Kingdom,final,Chris Baldo and Sophie Garel,Nous Vivrons D'amour,Luxembourg,5,5,11,False,170,2.94,True
+1179,London,1968,United Kingdom,final,Karel Gott,Tausend Fenster,Austria,4,2,13,False,170,1.18,True
+1180,London,1968,United Kingdom,final,Claude Lombard,Quand Tu Reviendras,Belgium,3,8,7,False,170,4.71,True
+1181,London,1968,United Kingdom,final,Ronnie Tober,Morgen,Netherlands,2,1,16,False,170,0.59,True
+1182,London,1968,United Kingdom,final,Carlos Mendes,Verão,Portugal,1,5,11,False,170,2.94,True
+1183,Vienna,1967,Austria,final,Thérèse Steinmetz,Ring-dinge,Netherlands,1,2,14,False,170,1.18,True
+1184,Vienna,1967,Austria,final,Vicky,L'amour Est Bleu,Luxembourg,2,17,4,False,170,10.0,True
+1185,Vienna,1967,Austria,final,Peter Horten,Warum Es Hunderttausend Sterne Gibt,Austria,3,2,14,False,170,1.18,True
+1186,Vienna,1967,Austria,final,Noëlle Cordier,Il Doit Faire Beau Là-bas,France,4,20,3,False,170,11.76,True
+1187,Vienna,1967,Austria,final,Eduardo Nascimento,O Vento Mudou,Portugal,5,3,12,False,170,1.76,True
+1188,Vienna,1967,Austria,final,Östen Warnebring,Som En Dröm,Sweden,7,7,8,False,170,4.12,True
+1189,Vienna,1967,Austria,final,Fredi,Varjoon-suojaan,Finland,8,3,12,False,170,1.76,True
+1190,Vienna,1967,Austria,final,Inge Brück,Anouschka,Germany,9,7,8,False,170,4.12,True
+1191,Vienna,1967,Austria,final,Louis Neefs,Ik Heb Zorgen,Belgium,10,8,7,False,170,4.71,True
+1192,Vienna,1967,Austria,final,Sandie Shaw,Puppet On A String,United Kingdom,11,47,1,True,170,27.65,True
+1193,Vienna,1967,Austria,final,Raphael,Hablemos Del Amor,Spain,12,9,6,False,170,5.29,True
+1194,Vienna,1967,Austria,final,Kirsti Sparboe,Dukkemann,Norway,13,2,14,False,170,1.18,True
+1195,Vienna,1967,Austria,final,Minouche Barelli,Boum-badaboum,Monaco,14,10,5,False,170,5.88,True
+1196,Vienna,1967,Austria,final,Lado Leskovar,Vse Roze Sveta,Yugoslavia,15,7,8,False,170,4.12,True
+1197,Vienna,1967,Austria,final,Claudio Villa,Non Andare Più Lontano,Italy,16,4,11,False,170,2.35,True
+1198,Vienna,1967,Austria,final,Sean Dunphy,If I Could Choose,Ireland,17,22,2,False,170,12.94,True
+1199,Luxembourg,1966,Luxembourg,final,Kenneth McKellar,A Man Without Love,United Kingdom,18,8,9,False,162,4.94,True
+1200,Luxembourg,1966,Luxembourg,final,Dickie Rock,Come Back To Stay,Ireland,17,14,4,False,162,8.64,True
+1201,Luxembourg,1966,Luxembourg,final,Milly Scott,Fernando En Philippo,Netherlands,16,2,15,False,162,1.23,True
+1202,Luxembourg,1966,Luxembourg,final,Dominique Walter,Chez Nous,France,15,1,16,False,162,0.62,True
+1203,Luxembourg,1966,Luxembourg,final,Madeleine Pascal,Ne Vois-tu Pas?,Switzerland,12,12,6,False,162,7.41,True
+1204,Luxembourg,1966,Luxembourg,final,Raphael,Yo Soy Aquél,Spain,11,9,7,False,162,5.56,True
+1205,Luxembourg,1966,Luxembourg,final,Lill Lindfors and  Svante Thuresson,Nygammal Vals Eller Hip Man Svinaherde,Sweden,10,16,2,False,162,9.88,True
+1206,Luxembourg,1966,Luxembourg,final,Udo Jürgens,Merci Chérie,Austria,9,31,1,True,162,19.14,True
+1207,Luxembourg,1966,Luxembourg,final,Madalena Iglesias,Ele E Ela,Portugal,8,6,13,False,162,3.7,True
+1208,Luxembourg,1966,Luxembourg,final,Ann-Christine Nyström,Play-boy,Finland,7,7,10,False,162,4.32,True
+1209,Luxembourg,1966,Luxembourg,final,Åse Kleveland,Intet Er Nytt Under Solen,Norway,6,15,3,False,162,9.26,True
+1210,Luxembourg,1966,Luxembourg,final,Berta Ambroz,Brez Besed,Yugoslavia,5,9,7,False,162,5.56,True
+1211,Luxembourg,1966,Luxembourg,final,Michèle Torr,Ce Soir Je T'attendais,Luxembourg,4,7,10,False,162,4.32,True
+1212,Luxembourg,1966,Luxembourg,final,Tonia,"Un Peu De Poivre, Un Peu De Sel",Belgium,3,14,4,False,162,8.64,True
+1213,Luxembourg,1966,Luxembourg,final,Ulla Pia,"Stop, Ja Stop - Ja Stop, Mens Legen Er Go",Denmark,2,4,14,False,162,2.47,True
+1214,Luxembourg,1966,Luxembourg,final,Margot Eskens,Die Zeiger Der Uhr,Germany,1,7,10,False,162,4.32,True
+1215,Naples,1965,Italy,final,Yovanna,Non à Jamais Sans Toi,Switzerland,18,8,8,False,162,4.94,True
+1216,Naples,1965,Italy,final,Vice Vukov,Ceznja,Yugoslavia,17,2,12,False,162,1.23,True
+1217,Naples,1965,Italy,final,France Gall,"Poupée De Cire, Poupée De Son",Luxembourg,15,32,1,True,162,19.75,True
+1218,Naples,1965,Italy,final,Birgit Brüel,For Din Skyld,Denmark,14,10,7,False,162,6.17,True
+1219,Naples,1965,Italy,final,Bobby Solo,"Se Piangi, Se Ridi",Italy,13,15,5,False,162,9.26,True
+1220,Naples,1965,Italy,final,Simone de Oliviera,Sol De Inverno,Portugal,12,1,13,False,162,0.62,True
+1221,Naples,1965,Italy,final,Guy Mardel,N'avoue Jamais,France,11,22,3,False,162,13.58,True
+1222,Naples,1965,Italy,final,Ingvar Wixell,Absent Friend,Sweden,10,6,10,False,162,3.7,True
+1223,Naples,1965,Italy,final,Marjorie Noël,Va Dire à L'amour,Monaco,9,7,9,False,162,4.32,True
+1224,Naples,1965,Italy,final,Kirsti Sparboe,Karusell,Norway,7,1,13,False,162,0.62,True
+1225,Naples,1965,Italy,final,Udo Jürgens,"Sag Ihr, Ich Lass' Sie Grüßen",Austria,6,16,4,False,162,9.88,True
+1226,Naples,1965,Italy,final,Butch Moore,I'm Walking The Streets In The Rain,Ireland,4,11,6,False,162,6.79,True
+1227,Naples,1965,Italy,final,Kathy Kirby,I Belong,United Kingdom,2,26,2,False,162,16.05,True
+1228,Naples,1965,Italy,final,Conny Van den bos,Het Is Genoeg,Netherlands,1,5,11,False,162,3.09,True
+1229,Copenhagen,1964,Denmark,final,"Tim, Nelly and Tony",Caracola,Spain,16,1,12,False,144,0.69,True
+1230,Copenhagen,1964,Denmark,final,Robert Cogoi,Près De Ma Rivière,Belgium,15,2,10,False,144,1.39,True
+1231,Copenhagen,1964,Denmark,final,Gigliola Cinquetti,Non Ho L'étà,Italy,12,49,1,True,144,34.03,True
+1232,Copenhagen,1964,Denmark,final,Romuald,Où Sont-elles Passées?,Monaco,10,15,3,False,144,10.42,True
+1233,Copenhagen,1964,Denmark,final,Matt Monro,I Love The Little Things,United Kingdom,8,17,2,False,144,11.81,True
+1234,Copenhagen,1964,Denmark,final,Rachel,Le Chant De Mallory,France,7,14,4,False,144,9.72,True
+1235,Copenhagen,1964,Denmark,final,Udo Jürgens,"Warum Nur, Warum?",Austria,6,11,6,False,144,7.64,True
+1236,Copenhagen,1964,Denmark,final,Lasse Mårtenson,Laiskotellen,Finland,5,9,7,False,144,6.25,True
+1237,Copenhagen,1964,Denmark,final,Bjørn Tidmand,Sangen Om Dig,Denmark,4,4,9,False,144,2.78,True
+1238,Copenhagen,1964,Denmark,final,Arne Bendiksen,Spiral,Norway,3,6,8,False,144,4.17,True
+1239,Copenhagen,1964,Denmark,final,Anneke Grönloh,Jij Bent Mijn Leven,Netherlands,2,2,10,False,144,1.39,True
+1240,Copenhagen,1964,Denmark,final,Hugues Aufray,Dès Que Le Printemps Revient,Luxembourg,1,14,4,False,144,9.72,True
+1241,London,1963,United Kingdom,final,Nana Mouskouri,A Force De Prier,Luxembourg,16,13,8,False,240,5.42,True
+1242,London,1963,United Kingdom,final,Françoise Hardy,L'amour S'en Va,Monaco,15,25,5,False,240,10.42,True
+1243,London,1963,United Kingdom,final,Jacques Raymond,Waarom,Belgium,14,4,10,False,240,1.67,True
+1244,London,1963,United Kingdom,final,José Guardiola,Algo Prodigioso,Spain,12,2,12,False,240,0.83,True
+1245,London,1963,United Kingdom,final,Alain Barrière,Elle était Si Jolie,France,11,25,5,False,240,10.42,True
+1246,London,1963,United Kingdom,final,Esther Ofarim,T'en Va Pas,Switzerland,10,40,2,False,240,16.67,True
+1247,London,1963,United Kingdom,final,Vice Vukov,Brodovi,Yugoslavia,9,3,11,False,240,1.25,True
+1248,London,1963,United Kingdom,final,Grethe and Jørgen Ingmann,Dansevise,Denmark,8,42,1,True,240,17.5,True
+1249,London,1963,United Kingdom,final,Emilio Pericoli,Uno Per Tutte,Italy,6,37,3,False,240,15.42,True
+1250,London,1963,United Kingdom,final,Carmela Corren,Vielleicht Geschieht Ein Wunder,Austria,4,16,7,False,240,6.67,True
+1251,London,1963,United Kingdom,final,Heidi Brühl,Marcel,Germany,3,5,9,False,240,2.08,True
+1252,London,1963,United Kingdom,final,Ronnie Carroll,Say Wonderful Things,United Kingdom,1,28,4,False,240,11.67,True
+1253,Luxembourg,1962,Luxembourg,final,François Deguelt,Dis Rien,Monaco,16,13,2,False,96,13.54,True
+1254,Luxembourg,1962,Luxembourg,final,Claudio Villa,"Addio, Addio",Italy,15,3,9,False,96,3.12,True
+1255,Luxembourg,1962,Luxembourg,final,Camillo Felgen,Petit Bonhomme,Luxembourg,14,11,3,False,96,11.46,True
+1256,Luxembourg,1962,Luxembourg,final,Ronnie Carroll,Ring-a-ding Girl,United Kingdom,13,10,4,False,96,10.42,True
+1257,Luxembourg,1962,Luxembourg,final,Lola Novakovic,Ne Pali Svetlo U Sumrak,Yugoslavia,12,10,4,False,96,10.42,True
+1258,Luxembourg,1962,Luxembourg,final,Jean Philippe,Le Retour,Switzerland,11,2,10,False,96,2.08,True
+1259,Luxembourg,1962,Luxembourg,final,Inger Jacobsen,"Kom Sol, Kom Regn",Norway,10,2,10,False,96,2.08,True
+1260,Luxembourg,1962,Luxembourg,final,Isabelle Aubret,Un Premier Amour,France,9,26,1,True,96,27.08,True
+1261,Luxembourg,1962,Luxembourg,final,Conny Froboess,Zwei Kleine Italiener,Germany,7,9,6,False,96,9.38,True
+1262,Luxembourg,1962,Luxembourg,final,Inger Berggren,Sol Och Vår,Sweden,6,4,7,False,96,4.17,True
+1263,Luxembourg,1962,Luxembourg,final,Ellen Winther,Vuggevise,Denmark,5,2,10,False,96,2.08,True
+1264,Luxembourg,1962,Luxembourg,final,Marion Rung,Tipi-tii,Finland,1,4,7,False,96,4.17,True
+1265,Cannes,1961,France,final,Betty Curtis,Al Di Là,Italy,16,12,5,False,160,7.5,True
+1266,Cannes,1961,France,final,The Allisons,Are You Sure?,United Kingdom,15,24,2,False,160,15.0,True
+1267,Cannes,1961,France,final,Jean-Claude Pascal,Nous Les Amoureux,Luxembourg,14,31,1,True,160,19.38,True
+1268,Cannes,1961,France,final,Dario Campeotto,Angelique,Denmark,13,12,5,False,160,7.5,True
+1269,Cannes,1961,France,final,Nora Brockstedt,Sommer I Palma,Norway,12,10,7,False,160,6.25,True
+1270,Cannes,1961,France,final,Bob Benny,"September, Gouden Roos",Belgium,11,1,15,False,160,0.62,True
+1271,Cannes,1961,France,final,Franca di Rienzo,Nous Aurons Demain,Switzerland,10,16,3,False,160,10.0,True
+1272,Cannes,1961,France,final,Jean-Paul Mauric,Printemps (avril Carillonne),France,9,13,4,False,160,8.12,True
+1273,Cannes,1961,France,final,Lale Andersen,Einmal Sehen Wir Uns Wieder,Germany,8,3,13,False,160,1.88,True
+1274,Cannes,1961,France,final,Lill-Babs,"April, April",Sweden,7,2,14,False,160,1.25,True
+1275,Cannes,1961,France,final,Greetje Kauffeld,Wat Een Dag,Netherlands,6,6,10,False,160,3.75,True
+1276,Cannes,1961,France,final,Ljiljana Petrovic,Neke Davne Zvezde,Yugoslavia,5,9,8,False,160,5.62,True
+1277,Cannes,1961,France,final,Laila Kinnunen,Valoa Ikkunassa,Finland,4,6,10,False,160,3.75,True
+1278,Cannes,1961,France,final,Jimmy Makulis,Sehnsucht,Austria,3,1,15,False,160,0.62,True
+1279,Cannes,1961,France,final,Colette Deréal,"Allons, Allons Les Enfants",Monaco,2,6,10,False,160,3.75,True
+1280,Cannes,1961,France,final,Conchita Bautista,Estando Contigo,Spain,1,8,9,False,160,5.0,True
+1281,London,1960,United Kingdom,final,Jacqueline Boyer,Tom Pillibi,France,13,32,1,True,130,24.62,True
+1282,London,1960,United Kingdom,final,Renato Rascel,Romantica,Italy,12,5,8,False,130,3.85,True
+1283,London,1960,United Kingdom,final,Wyn Hoop,"Bonne Nuit, Ma Chérie!",Germany,11,11,4,False,130,8.46,True
+1284,London,1960,United Kingdom,final,Rudi Carrell,Wat Een Geluk,Netherlands,10,2,12,False,130,1.54,True
+1285,London,1960,United Kingdom,final,Anita Traversi,Cielo E Terra,Switzerland,9,5,8,False,130,3.85,True
+1286,London,1960,United Kingdom,final,François Deguelt,Ce Soir-là,Monaco,8,15,3,False,130,11.54,True
+1287,London,1960,United Kingdom,final,Harry Winter,Du Hast Mich So Fasziniert,Austria,7,6,7,False,130,4.62,True
+1288,London,1960,United Kingdom,final,Nora Brockstedt,Voi-voi,Norway,6,11,4,False,130,8.46,True
+1289,London,1960,United Kingdom,final,Fud Leclerc,Mon Amour Pour Toi,Belgium,5,9,6,False,130,6.92,True
+1290,London,1960,United Kingdom,final,Katy Bødtger,Det Var En Yndig Tid,Denmark,4,4,10,False,130,3.08,True
+1291,London,1960,United Kingdom,final,Camillo Felgen,So Laang We's Du Do Bast,Luxembourg,3,1,13,False,130,0.77,True
+1292,London,1960,United Kingdom,final,Siw Malmkvist,Alla Andra Får Varann,Sweden,2,4,10,False,130,3.08,True
+1293,London,1960,United Kingdom,final,Bryan Johnson,"Looking High, High, High",United Kingdom,1,25,2,False,130,19.23,True
+1294,Cannes,1959,France,final,Bob Benny,Hou Toch Van Mij,Belgium,11,9,6,False,110,8.18,True
+1295,Cannes,1959,France,final,Pearl Carr and Teddy Johnson,Sing Little Birdie,United Kingdom,10,16,2,False,110,14.55,True
+1296,Cannes,1959,France,final,Ferry Graf,Der K. Und K. Kalypso Aus Wien,Austria,9,4,9,False,110,3.64,True
+1297,Cannes,1959,France,final,Christa Williams,Irgendwoher,Switzerland,8,14,4,False,110,12.73,True
+1298,Cannes,1959,France,final,Brita Borg,Augustin,Sweden,7,4,9,False,110,3.64,True
+1299,Cannes,1959,France,final,Alice and Ellen Kessler,Heut' Woll'n Wir Tanzen Geh'n,Germany,6,5,8,False,110,4.55,True
+1300,Cannes,1959,France,final,Teddy Scholten,Een Beetje,Netherlands,5,21,1,True,110,19.09,True
+1301,Cannes,1959,France,final,Jacques Pills,Mon Ami Pierrot,Monaco,4,1,11,False,110,0.91,True
+1302,Cannes,1959,France,final,Jean Philippe,"Oui, Oui, Oui, Oui",France,1,15,3,False,110,13.64,True
+1303,Cannes,1959,France,final,Birthe Wilke,Uh-jeg Ville Ønske Jeg Var Dig,Denmark,2,12,5,False,110,10.91,True
+1304,Cannes,1959,France,final,Domenico Modugno,Piove,Italy,3,9,6,False,110,8.18,True
+1305,Hilversum,1958,Netherlands,final,Fud Leclerc,Ma Petite Chatte,Belgium,7,8,5,False,100,8.0,True
+1306,Hilversum,1958,Netherlands,final,Raquel Rastenni,Jeg Rev Et Blad Ud Af Min Dagbog,Denmark,6,3,8,False,100,3.0,True
+1307,Hilversum,1958,Netherlands,final,Alice Babs,Lilla Stjärna,Sweden,5,10,4,False,100,10.0,True
+1308,Hilversum,1958,Netherlands,final,Solange Berry,Un Grand Amour,Luxembourg,4,1,9,False,100,1.0,True
+1309,Hilversum,1958,Netherlands,final,André Claveau,Dors Mon Amour,France,3,27,1,True,100,27.0,True
+1310,Hilversum,1958,Netherlands,final,Corry Brokken,Heel De Wereld,Netherlands,2,1,9,False,100,1.0,True
+1311,Hilversum,1958,Netherlands,final,Domenico Modugno,Nel Blu Dipinto Di Blu,Italy,1,13,3,False,100,13.0,True
+1312,Hilversum,1958,Netherlands,final,Margot Hielscher,Für Zwei Groschen Musik,Germany,8,5,7,False,100,5.0,True
+1313,Hilversum,1958,Netherlands,final,Liane Augustin,Die Ganze Welt Braucht Liebe,Austria,9,8,5,False,100,8.0,True
+1314,Hilversum,1958,Netherlands,final,Lys Assia,Giorgio,Switzerland,10,24,2,False,100,24.0,True
+1315,Frankfurt,1957,Germany,final,Lys Assia,L'enfant Que J'étais,Switzerland,10,5,8,False,100,5.0,True
+1316,Frankfurt,1957,Germany,final,Birthe Wilke and Gustav Winckler,Skibet Skal Sejle I Nat,Denmark,9,10,3,False,100,10.0,True
+1317,Frankfurt,1957,Germany,final,Paule Desjardins,La Belle Amour,France,8,17,2,False,100,17.0,True
+1318,Frankfurt,1957,Germany,final,Margot Hielscher,"Telefon, Telefon",Germany,7,8,4,False,100,8.0,True
+1319,Frankfurt,1957,Germany,final,Corry Brokken,Net Als Toen,Netherlands,6,31,1,True,100,31.0,True
+1320,Frankfurt,1957,Germany,final,Bob Martin,"Wohin, Kleines Pony",Austria,5,3,10,False,100,3.0,True
+1321,Frankfurt,1957,Germany,final,Nunzio Gallo,Corde Della Mia Chitarra,Italy,4,7,6,False,100,7.0,True
+1322,Frankfurt,1957,Germany,final,Patricia Bredin,All,United Kingdom,3,6,7,False,100,6.0,True
+1323,Frankfurt,1957,Germany,final,Danièle Dupré,Tant De Peine,Luxembourg,2,8,4,False,100,8.0,True
+1324,Frankfurt,1957,Germany,final,Bobbejaan Schoepen,Straatdeuntje,Belgium,1,5,8,False,100,5.0,True
